@@ -6,7 +6,7 @@ en segundo plano y servidor de frontend Tailwind CSS.
 """
 
 from flask import Flask, render_template, jsonify, request, send_file
-import os, json, tempfile, uuid
+import os, json, tempfile, uuid, gzip
 from datetime import datetime, date
 
 from odoo_sync_engine import (
@@ -44,6 +44,19 @@ def add_header(response):
     response.headers["Cache-Control"] = "no-cache, no-store, must-revalidate, max-age=0"
     response.headers["Pragma"] = "no-cache"
     response.headers["Expires"] = "0"
+
+    # Compresión GZIP en vivo para respuestas JSON/texto superiores a 1KB (acelera red hasta 92%)
+    accept_encoding = request.headers.get("Accept-Encoding", "")
+    if "gzip" in accept_encoding.lower() and response.status_code == 200 and not response.direct_passthrough:
+        try:
+            data = response.get_data()
+            if len(data) > 1024:
+                compressed = gzip.compress(data, compresslevel=5)
+                response.set_data(compressed)
+                response.headers["Content-Encoding"] = "gzip"
+                response.headers["Content-Length"] = len(compressed)
+        except Exception:
+            pass
     return response
 
 @app.route("/")

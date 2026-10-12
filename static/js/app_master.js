@@ -34,7 +34,6 @@ document.addEventListener('DOMContentLoaded', () => {
   switchTab('inicio');
   renderChipsEspecialesUI();
   loadVendedores();
-  loadStockData();
   pollStatus();
   setInterval(pollStatus, 15000);
 
@@ -344,10 +343,11 @@ async function renderInicioDashboard() {
     .catch(err => console.error("Error inicio ventas:", err));
 
   // 2. KPI Cobranza / Cartera Viva
+  const interCob = document.getElementById('cob-interempresa')?.checked ?? true;
   fetch('/api/cobranza', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ empresa_nombre: empresa, excluir_interempresa: false })
+    body: JSON.stringify({ empresa_nombre: empresa, excluir_interempresa: interCob })
   })
     .then(res => res.json())
     .then(data => {
@@ -367,6 +367,17 @@ async function renderInicioDashboard() {
     .then(res => res.json())
     .then(data => {
       const inv = data.data?.inventario || data.data || [];
+      if (data.data?.almacenes_detectados && data.data.almacenes_detectados.length > 0) {
+        const selectAlm = document.getElementById('stock-almacen');
+        if (selectAlm && selectAlm.options.length <= 1) {
+          data.data.almacenes_detectados.forEach(wh => {
+            const opt = document.createElement('option');
+            opt.value = wh;
+            opt.innerText = wh;
+            selectAlm.appendChild(opt);
+          });
+        }
+      }
       if (inv.length > 0) {
         stockDataGlobal = inv;
         const elStock = document.getElementById('inicio-kpi-stock');
