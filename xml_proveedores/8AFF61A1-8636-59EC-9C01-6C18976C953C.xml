@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Sello="HcBR1r4eFxiFFlY8ckvBszpc8TBnzNLL1JpZQzHiUAU0g435cH8RIXzZsFCbleOP4FP0PL8OWgcg7XocVP9/LyLCRAi/zdoTAnhHW/BZ1iCXnero32uDLG4N2AbRGC1ytVIIYxCUFy9uX+kCebYx1F6+mORqZXFHHqEJJsRAAmHLwuGvmuz9cspfsk9qnsi9VjDLXYw8TIUXnMFb+SP0I/Nhh77NxJHjrnRMpz9QTDa5TCm31P5aR8vbTzl72u5ygOt1NP0pfHvaLrkFDicy8skcN5UkyCjdsYAXcZmNaFv4W5BoTMFV51CjMktGM6KkiLTwYfCJem++gl9hyrFlFA==" Fecha="2026-07-13T10:37:57" Folio="528" Serie="INV/2026/" FormaPago="99" NoCertificado="00001000000723722733" Certificado="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" CondicionesDePago="30 días" SubTotal="5336.21" Moneda="MXN" Total="6190.00" TipoDeComprobante="I" Exportacion="01" MetodoPago="PPD" LugarExpedicion="76220">
+  <cfdi:Emisor Rfc="ALM0003033S6" Nombre="AUTO LINEA MULTITRANS" RegimenFiscal="626"/>
+  <cfdi:Receptor Rfc="VAGB801026582" Nombre="BALTAZAR VAZQUEZ GARCIA" DomicilioFiscalReceptor="76110" RegimenFiscalReceptor="612" UsoCFDI="G03"/>
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="31211501" Cantidad="1.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="KIT AUTOLUX 980 GL" ValorUnitario="1810.344828" Importe="1810.344828" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1810.344828" Importe="289.655172" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31211500" NoIdentificacion="F2KGRIS4" Cantidad="1.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[F2KGRIS4] FONDO DE RELLENO 2K GRIS GL" ValorUnitario="1206.896552" Importe="1206.896552" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1206.896552" Importe="193.103448" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31211500" NoIdentificacion="POX-4" Cantidad="1.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[POX-4] PASTA OPTEX Z-GRIP EVERCOAT" ValorUnitario="422.413793" Importe="422.413793" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="422.413793" Importe="67.586207" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31211500" NoIdentificacion="BCC-812-4" Cantidad="1.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[BCC-812-4] BC ALUMINIO FINO BRILLANTE GL" ValorUnitario="1896.551724" Importe="1896.551724" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1896.551724" Importe="303.448276" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="853.79">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="5336.21" Importe="853.79" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" SelloCFD="HcBR1r4eFxiFFlY8ckvBszpc8TBnzNLL1JpZQzHiUAU0g435cH8RIXzZsFCbleOP4FP0PL8OWgcg7XocVP9/LyLCRAi/zdoTAnhHW/BZ1iCXnero32uDLG4N2AbRGC1ytVIIYxCUFy9uX+kCebYx1F6+mORqZXFHHqEJJsRAAmHLwuGvmuz9cspfsk9qnsi9VjDLXYw8TIUXnMFb+SP0I/Nhh77NxJHjrnRMpz9QTDa5TCm31P5aR8vbTzl72u5ygOt1NP0pfHvaLrkFDicy8skcN5UkyCjdsYAXcZmNaFv4W5BoTMFV51CjMktGM6KkiLTwYfCJem++gl9hyrFlFA==" NoCertificadoSAT="00001000000707310321" RfcProvCertif="CVD110412TF6" UUID="8AFF61A1-8636-59EC-9C01-6C18976C953C" FechaTimbrado="2026-07-13T10:37:58" SelloSAT="FhAPqu/GJ0j4IziwDycdKUdTx4xSbEZcNkRjpZ+o45CYJF5QTVLPseSHf3xzAMSdTvw3WpFK0FtAA5RjK6bS5KuifY6I5AE8KABc0dKUYyjkk9tGfwhMvCyEf7/CPJ8tHcLFxrapunE6qy3YJ2D7OCcrRVfDgiN3PFtPhmoQ1CNXm8uPC56jo8WDMXS2gvtG2aMVtwttkUO9eKguXZnBivlGNHhgEMxePu+FZ3JUXTCcJ56bcasHqYXFdTqVJ7AQqhj9IHLUEdprv5Lrw/t/zMLwcxH295iz6Ep2d7/XivHIDXFQw4jZ2xdYalQkVDBMKb/ViASB3muzzMwtvwVAPQ=="/>
+  </cfdi:Complemento>
+</cfdi:Comprobante>

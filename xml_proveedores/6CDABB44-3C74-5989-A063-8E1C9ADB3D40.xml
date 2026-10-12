@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Sello="I/dhy2R5q4M29WEWavRs13N5bvKhFNdiUhQm2g/4peBD3b5Ud60ceEEnUWQnRT9oqtRk5s0e8pSWZxWBcFcNtS8XPyaVXkSDlHD7L0Kwni6wWQX+BtQJ98BIhLDNJvdpfhsqPk+c7PS8SfplsxmNyz4RBAlRHFogcfT9H6E1wYbW2jXjZelHQt5PNkriZ5SuNw45GqMC7sgv7GPHoK0//ms5IA20TlCtfS+BdCU/Eq47mlTnYcTDXqWM3g4KBdWuSN4LSZHgxtTT6EwrN691CmGvUB/WvbvZw7wcuEdaLVCcy9VEvlEAjJcAGxmOwmvj5oJGnU3fm/gnqot9ygJy9g==" Fecha="2026-06-09T13:55:11" Folio="941" Serie="INV/2026/" FormaPago="01" NoCertificado="00001000000723720361" Certificado="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" SubTotal="3498.29" Moneda="MXN" Total="4058.02" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="76220">
+  <cfdi:Emisor Rfc="MEGB620114JX6" Nombre="BALDOMERO MEDINA GARZA" RegimenFiscal="612"/>
+  <cfdi:Receptor Rfc="XAXX010101000" Nombre="JOSE ENRIQUE OLVERA DE JESUS" DomicilioFiscalReceptor="76220" RegimenFiscalReceptor="616" UsoCFDI="S01"/>
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="31211500" NoIdentificacion="MC260" Cantidad="1.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[MC260] KIT TRANSPARENTE OMNI MC260 PPG" ValorUnitario="2586.206897" Importe="2586.206897" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2586.206897" Importe="413.793103" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31211500" NoIdentificacion="F2KGRIS4" Cantidad="1.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[F2KGRIS4] FONDO DE RELLENO 2K GRIS GL" ValorUnitario="912.068966" Importe="912.068966" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="912.068966" Importe="145.931034" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31211500" NoIdentificacion="F1041" Cantidad="1.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[F1041] CATALIZADOR FONDO DE RELLENO 2K 1LT" ValorUnitario="0.010000" Importe="0.010000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="0.010000" Importe="0.001600" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="559.73">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="3498.29" Importe="559.73" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" SelloCFD="I/dhy2R5q4M29WEWavRs13N5bvKhFNdiUhQm2g/4peBD3b5Ud60ceEEnUWQnRT9oqtRk5s0e8pSWZxWBcFcNtS8XPyaVXkSDlHD7L0Kwni6wWQX+BtQJ98BIhLDNJvdpfhsqPk+c7PS8SfplsxmNyz4RBAlRHFogcfT9H6E1wYbW2jXjZelHQt5PNkriZ5SuNw45GqMC7sgv7GPHoK0//ms5IA20TlCtfS+BdCU/Eq47mlTnYcTDXqWM3g4KBdWuSN4LSZHgxtTT6EwrN691CmGvUB/WvbvZw7wcuEdaLVCcy9VEvlEAjJcAGxmOwmvj5oJGnU3fm/gnqot9ygJy9g==" NoCertificadoSAT="00001000000707310321" RfcProvCertif="CVD110412TF6" UUID="6CDABB44-3C74-5989-A063-8E1C9ADB3D40" FechaTimbrado="2026-06-09T13:55:12" SelloSAT="BKjBH2j9yafjadTDe9DiPb001kGKz0IZQBRBhPL74KTeTsf+clWt7yPLoxPu6b1dHIVc37Pm/igUmhuxhRo0bu9+a9iPPWodlW2YLtMc5ZLl8jBFjt/JC8BhsOUuL6TYsZXAqJrL3QUaFQTN5JQ84Ld6LlLR5NFlYpQfOOwbTtifVCqCQ9AubfoBunANgeNbPbfbmV9vltzdpkOVxtKXAOoqK0ozYU0BMPog7dIDgAFpUg3W9plIqFF+akIVAgAJz+xggpK0aQ9bsmOkCUYD120Rk0z//A5jMRVI3hCLy8n56hMxUw7Fcfsz9fZ62GPLQK6rIqtNxGkSuQEsDT4UYA=="/>
+  </cfdi:Complemento>
+</cfdi:Comprobante>

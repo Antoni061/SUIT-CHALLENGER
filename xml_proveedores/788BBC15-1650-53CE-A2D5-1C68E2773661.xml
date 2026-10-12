@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Sello="Os6fJN5r9/tdYIvLnvHanqCIYoAjK7sVw5/uGx6v8svRK1007fktDwfZhkG5Dbn+bbSQiOl7FsFtjbpS0EohNTXceASlHK7a4jtuWQ8bDdvPdan+x+PO4kpXrJz85XV7YZxyBd8jz3jZ4b/1A9n2Wz8vw5BzbeKdWHR9HXPbx5gAxZ1z53LsJrmMxYIMdyTcXLwlgMYqIN8aVpYLBLOW6y9OzFvm2lt+WBhM9ehKSOtGMu7AK7EvNa/sShi8R79gPpHD7gpKdXT2ey4jgvORStE0Xkg6mmOUtQsJqsH/2bF0VnFxXqH+akY7Ujy6VUeN5O1D4hBzCCwgV+rxJ93G/w==" Fecha="2026-08-28T14:00:29" Folio="1607" Serie="INV/2026/" FormaPago="99" NoCertificado="00001000000723720361" Certificado="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" CondicionesDePago="30 días" SubTotal="10043.97" Descuento="502.19" Moneda="MXN" Total="11068.46" TipoDeComprobante="I" Exportacion="01" MetodoPago="PPD" LugarExpedicion="76220">
+  <cfdi:Emisor Rfc="MEGB620114JX6" Nombre="BALDOMERO MEDINA GARZA" RegimenFiscal="612"/>
+  <cfdi:Receptor Rfc="ALM0003033S6" Nombre="AUTO LINEA MULTITRANS" DomicilioFiscalReceptor="76220" RegimenFiscalReceptor="626" UsoCFDI="G01"/>
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="31211500" NoIdentificacion="BCC-831-1" Cantidad="1.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[BCC-831-1] BC PLATA REFLECTIVO LT" ValorUnitario="564.740000" Importe="564.740000" ObjetoImp="02" Descuento="28.237000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="536.503000" Importe="85.840480" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31211500" NoIdentificacion="BCC-101-1" Cantidad="1.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[BCC-101-1] BC BLANCO TORNASOL LT" ValorUnitario="533.930000" Importe="533.930000" ObjetoImp="02" Descuento="26.696500">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="507.233500" Importe="81.157360" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31211500" NoIdentificacion="BCC-842-1" Cantidad="1.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[BCC-842-1] BC PALIO TANGERINE LT" ValorUnitario="558.450000" Importe="558.450000" ObjetoImp="02" Descuento="27.922500">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="530.527500" Importe="84.884400" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31211500" NoIdentificacion="FUGC-4" Cantidad="2.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[FUGC-4] FONDO UNIVERSAL GRIS GL" ValorUnitario="644.170000" Importe="1288.340000" ObjetoImp="02" Descuento="64.417000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1223.923000" Importe="195.827680" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31211500" NoIdentificacion="BCC-100-4" Cantidad="1.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[BCC-100-4] BC BLANCO GL" ValorUnitario="1155.200000" Importe="1155.200000" ObjetoImp="02" Descuento="57.760000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1097.440000" Importe="175.590400" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31211500" NoIdentificacion="EM800-1" Cantidad="6.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[EM800-1] EASY MASTER 800 LT" ValorUnitario="172.540000" Importe="1035.240000" ObjetoImp="02" Descuento="51.762000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="983.478000" Importe="157.356480" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31211500" NoIdentificacion="EM800-11" Cantidad="6.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[EM800-11] EASY MASTER 800 CATALIZADOR 200ML" ValorUnitario="0.010000" Importe="0.060000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="0.060000" Importe="0.009600" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31211500" NoIdentificacion="TPP5-1" Cantidad="12.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[TPP5-1] TPP-5000 LT 4-1-4" ValorUnitario="310.850000" Importe="3730.200000" ObjetoImp="02" Descuento="186.510000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3543.690000" Importe="566.990400" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31211500" NoIdentificacion="CTPP-1" Cantidad="12.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[CTPP-1] TPP-5000 250 ML CATALIZADOR 4-1-4" ValorUnitario="0.010000" Importe="0.120000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="0.120000" Importe="0.019200" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31211500" NoIdentificacion="BCC-997-4" Cantidad="1.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[BCC-997-4] BC NEGRO GL" ValorUnitario="1177.690000" Importe="1177.690000" ObjetoImp="02" Descuento="58.884500">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1118.805500" Importe="179.008880" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="1526.68">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="9541.78" Importe="1526.68" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" SelloCFD="Os6fJN5r9/tdYIvLnvHanqCIYoAjK7sVw5/uGx6v8svRK1007fktDwfZhkG5Dbn+bbSQiOl7FsFtjbpS0EohNTXceASlHK7a4jtuWQ8bDdvPdan+x+PO4kpXrJz85XV7YZxyBd8jz3jZ4b/1A9n2Wz8vw5BzbeKdWHR9HXPbx5gAxZ1z53LsJrmMxYIMdyTcXLwlgMYqIN8aVpYLBLOW6y9OzFvm2lt+WBhM9ehKSOtGMu7AK7EvNa/sShi8R79gPpHD7gpKdXT2ey4jgvORStE0Xkg6mmOUtQsJqsH/2bF0VnFxXqH+akY7Ujy6VUeN5O1D4hBzCCwgV+rxJ93G/w==" NoCertificadoSAT="00001000000707310321" RfcProvCertif="CVD110412TF6" UUID="788BBC15-1650-53CE-A2D5-1C68E2773661" FechaTimbrado="2026-08-28T14:00:29" SelloSAT="DE//RIKdScHkWgCinZfoTls710KlDr8+5q00u45iEnRccqSyrxHB72QSbtyWmKsusoBtBkOf3acxErFiqtj/VWgFSiHTi1xgeaXfA+qhTnnIwVl8CmV5/5rbmU0Eyc4LGXqxd8lPJHrMV1FKL8PXbi1RByX3dzduTrgzQ4tUShhCdjBcOX/Np2Cq5WXgvnIXlDEzAsXFhnO1+lsLs6yhMMuSd00ZgJNRaQJdv2MdOBkI9DGDknEWsf9x3NtroLxr0SE/caK1BKm2LaJFoYmcZz2D6iYSPHl4MOd1pFINGWMX7pUhxOg9YI3V5Lv4QeQ2Y5Qgbwivtl5rC4qocPNOqw=="/>
+  </cfdi:Complemento>
+</cfdi:Comprobante>

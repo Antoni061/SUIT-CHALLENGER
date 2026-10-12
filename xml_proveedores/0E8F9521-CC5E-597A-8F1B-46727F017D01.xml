@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Sello="GGj0DRrATBjXiYatEZtVyOSqp76Lj4Nz0OniO1AkMNg4L/sE0uNLqCIduI643srVKPxw41ldb5EutaMx71adD7Z+Tbka7SdpO3nU2s2Q9/J3gqoOFD8gws2sgWT5FCyj34IqMIwLwLqSrFxeARdCmuyk7CjhWiq1Iv9B/bbaI2m1Qektfxd4KsnTtif+U8IscK3yjUw6LJ0KZmDbh7IPNtgayfcr50xb5sMtXmhtdwWkQi4ei0U3ksiLKUjP02lXysp9hK9p09Eq4bmMT+AYUKLMU9A1bcgSeR6nSR86WDRBk5zfTkw4lNLqCaMX0Ojan6oPlY2GAgkWzyZk3sJwtw==" Fecha="2026-09-08T15:26:39" Folio="935" Serie="INV/2026/" FormaPago="99" NoCertificado="00001000000723720361" Certificado="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" CondicionesDePago="30 días" SubTotal="6595.75" Moneda="MXN" Total="7651.07" TipoDeComprobante="I" Exportacion="01" MetodoPago="PPD" LugarExpedicion="76220">
+  <cfdi:Emisor Rfc="MEGB620114JX6" Nombre="BALDOMERO MEDINA GARZA" RegimenFiscal="612"/>
+  <cfdi:Receptor Rfc="NASC751105LL1" Nombre="CARLOS MANUEL NAVARRO SANCHEZ" DomicilioFiscalReceptor="22204" RegimenFiscalReceptor="626" UsoCFDI="G01"/>
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="31211500" Cantidad="12.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="Kit Super Primer 2k" ValorUnitario="228.000000" Importe="2736.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2736.000000" Importe="437.760000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31211500" NoIdentificacion="PUL-002-X" Cantidad="3.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[PUL-002-X] BC PERLA UNIVERSAL AZUL XIRALICA" ValorUnitario="722.250000" Importe="2166.750000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2166.750000" Importe="346.680000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31211500" NoIdentificacion="BCC-424-4" Cantidad="1.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[BCC-424-4] BC MARRON PERRINDO GL" ValorUnitario="1693.000000" Importe="1693.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1693.000000" Importe="270.880000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="1055.32">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="6595.75" Importe="1055.32" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" SelloCFD="GGj0DRrATBjXiYatEZtVyOSqp76Lj4Nz0OniO1AkMNg4L/sE0uNLqCIduI643srVKPxw41ldb5EutaMx71adD7Z+Tbka7SdpO3nU2s2Q9/J3gqoOFD8gws2sgWT5FCyj34IqMIwLwLqSrFxeARdCmuyk7CjhWiq1Iv9B/bbaI2m1Qektfxd4KsnTtif+U8IscK3yjUw6LJ0KZmDbh7IPNtgayfcr50xb5sMtXmhtdwWkQi4ei0U3ksiLKUjP02lXysp9hK9p09Eq4bmMT+AYUKLMU9A1bcgSeR6nSR86WDRBk5zfTkw4lNLqCaMX0Ojan6oPlY2GAgkWzyZk3sJwtw==" NoCertificadoSAT="00001000000707310321" RfcProvCertif="CVD110412TF6" UUID="0E8F9521-CC5E-597A-8F1B-46727F017D01" FechaTimbrado="2026-09-08T15:26:39" SelloSAT="p2IOcNrF/sqQmh98dfcxyiIcbBMmtaEVOqLIFIfZrb+JiRcLpiqqh3baZSWATJuxeWlTQVEQ3J5CYKqf8yGVcRmjf1MrocQyuXtEnpI8m47BqqviHrLF1dFw/xVFfjl1eb7Gt1Cx0H8lC82KWsgcZb+ZHGAc66m2SJGqBKgJ6e/oP+xfIbTCJUFFihZyaC5/+NkiqVTh/JEugXSd7P8K6Su7OSeOmG6IrBm3e6vnnFbMSslqBG3a/WmvQCR06X2LOkPOsNkT3QBqHhjQf54DTUbzrnLLYknYkxuXLqkBm3kt1naJJBesbR/IRdpqv6oLiUnXa/anXXhmtJCtxWu1xg=="/>
+  </cfdi:Complemento>
+</cfdi:Comprobante>

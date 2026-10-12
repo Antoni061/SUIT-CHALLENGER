@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Sello="oPjqw0ESjIFpD2CiC8Cu92slZSdJ366nvEk1VZD59gEmNmnWOKkcwv61hip8nYCCz1sMOpWiTCmbB8cNKQ71EkNoJEo0NkMzmZLOyFohVB0P/9uF9IOqvQn3VugiwiQlKA7ba8VeIKyn9l1OiFb4w0BEIYGbuGi12gr7oSooEenDXUzYoM01uFKgHYvnh07nfU22JW4TfIdRFxY8PKS2F1Qr4rcLkTJ9NJZ74hbMx0tmQq53X0HoivSem1VhBV5V/CCJIbXjRSToxreAJp8ueh58arkp9TFJwC3mqbmOQe4c7/wF7NnQqoTfgxlRKk5mYm1dQQfPtofcw1wZgKx0Vg==" Fecha="2026-06-09T10:37:41" Folio="318" Serie="INV/2026/" FormaPago="04" NoCertificado="00001000000723722733" Certificado="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" CondicionesDePago="Pago inmediato" SubTotal="7500.02" Moneda="MXN" Total="8700.02" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="76220">
+  <cfdi:Emisor Rfc="ALM0003033S6" Nombre="AUTO LINEA MULTITRANS" RegimenFiscal="626"/>
+  <cfdi:Receptor Rfc="MERS8408098F4" Nombre="SANDRA BELINDA MEDINA RIVERA" DomicilioFiscalReceptor="76912" RegimenFiscalReceptor="612" UsoCFDI="G01"/>
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="31211500" NoIdentificacion="PPC-100-4" Cantidad="1.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[PPC-100-4] ESMALTE POLIURETANO BLANCO GL" ValorUnitario="1438.793103" Importe="1438.793103" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1438.793103" Importe="230.206897" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31211500" NoIdentificacion="PPC-997-4" Cantidad="1.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[PPC-997-4] ESMALTE POLIURETANO NEGRO GL" ValorUnitario="1541.379310" Importe="1541.379310" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1541.379310" Importe="246.620690" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31211500" NoIdentificacion="UH50-4" Cantidad="2.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[UH50-4] REDUCTOR UNIVERSAL UH50 GL" ValorUnitario="426.724138" Importe="853.448276" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="853.448276" Importe="136.551724" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31211500" NoIdentificacion="FDTM-4" Cantidad="1.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[FDTM-4] 2K DTM FONDO DE RELLENO GL" ValorUnitario="1511.206897" Importe="1511.206897" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1511.206897" Importe="241.793103" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="12161600" Cantidad="1.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="2K DTM CATALIZADOR LT" ValorUnitario="0.010000" Importe="0.010000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="0.010000" Importe="0.001600" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31211500" NoIdentificacion="65310" Cantidad="1.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[65310] TRANSPARENTE VT041 3.78 LT" ValorUnitario="2155.172414" Importe="2155.172414" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2155.172414" Importe="344.827586" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31211500" NoIdentificacion="62329" Cantidad="1.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[62329] CT6 RAPIDO 945ML" ValorUnitario="0.010000" Importe="0.010000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="0.010000" Importe="0.001600" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="1200.00">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="7500.02" Importe="1200.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" SelloCFD="oPjqw0ESjIFpD2CiC8Cu92slZSdJ366nvEk1VZD59gEmNmnWOKkcwv61hip8nYCCz1sMOpWiTCmbB8cNKQ71EkNoJEo0NkMzmZLOyFohVB0P/9uF9IOqvQn3VugiwiQlKA7ba8VeIKyn9l1OiFb4w0BEIYGbuGi12gr7oSooEenDXUzYoM01uFKgHYvnh07nfU22JW4TfIdRFxY8PKS2F1Qr4rcLkTJ9NJZ74hbMx0tmQq53X0HoivSem1VhBV5V/CCJIbXjRSToxreAJp8ueh58arkp9TFJwC3mqbmOQe4c7/wF7NnQqoTfgxlRKk5mYm1dQQfPtofcw1wZgKx0Vg==" NoCertificadoSAT="00001000000707310321" RfcProvCertif="CVD110412TF6" UUID="A0F6359D-6734-5FC9-804A-429F3D35CC80" FechaTimbrado="2026-06-09T10:37:41" SelloSAT="iqOVxcIoYipJiNpeNaqsNdYyxKZGj2/d13bob1neT6yfXB2cLzpL0L+SGGsSBQREsNtmhoQ7zXp+UL/ZirAgqhDopsVlGaeEGIJgrkwxlpEg/b5IDXI9q2FsrZjgxhsP8l8T5npIu2lZoIjdB1YMQcO5MnMbgAa3duRcf2eY0Le9fw66FZ7fuCrhY/ftRUY/Sf4meVWXrRAJ3n7rbtf4OAawfFe3JARNEITQjqoDSnn61mYmov5O7Xx3kRE3OboL9hpdCbJ/gm2VaNI6l3PLB6cqJ2T3SMrsyVZu+zEFyWbclfoevZJAMdx0XtMjSM4asghmIOM0p9q4QwYqFeBf+A=="/>
+  </cfdi:Complemento>
+</cfdi:Comprobante>

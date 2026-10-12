@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Sello="Bw/KVBZgzzLgJF9REHS3Qp/bxoGs7p6IT4fxKodvwaXMKuWUiK07iY3ZPBcMd00Bd0J30906TQi64ivEOohy4f1N08ZBXygSbUGBNzGOgugSllhgp7IGZXL1vkuL5ghSoY+FkBKD8arR5EO6nIx7PNs8T5wIK/dJsUfzudi2sTI1PQZAvnFeHXgOcix+FsJal6PajZrYN0i9Q67/OnU25LlcqWWjn+jT2xaUIrwjRjz+V7zaJfhiXknJgzm/mJWjsjvndvu6fnf+A39lK0dVeSRuNwIj83HZ1rP6Cq22wlgTId4Zp91WwH6dY4H7/AohFgEWE4GYi7W4cHFcOTsuuA==" Fecha="2026-06-30T17:49:33" Folio="467" Serie="INV/2026/" FormaPago="01" NoCertificado="00001000000723722733" Certificado="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" SubTotal="598.28" Moneda="MXN" Total="694.00" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="76220">
+  <cfdi:Emisor Rfc="ALM0003033S6" Nombre="AUTO LINEA MULTITRANS" RegimenFiscal="626"/>
+  <cfdi:Receptor Rfc="XAXX010101000" Nombre="EDUARDO ESPINOSA" DomicilioFiscalReceptor="76220" RegimenFiscalReceptor="616" UsoCFDI="S01"/>
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="31211500" NoIdentificacion="F2KGRIS4" Cantidad="1.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[F2KGRIS4] FONDO DE RELLENO 2K GRIS GL" ValorUnitario="362.068966" Importe="362.068966" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="362.068966" Importe="57.931034" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31211500" NoIdentificacion="26333" Cantidad="8.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[26333] CINTA MASKING 3/4 18MMX 50M 3M" ValorUnitario="24.137931" Importe="193.103448" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="193.103448" Importe="30.896552" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31191500" NoIdentificacion="F03E001B0G" Cantidad="2.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[F03E001B0G] TIRA LIJA 80 SIA SPEED" ValorUnitario="21.551724" Importe="43.103448" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="43.103448" Importe="6.896552" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="95.72">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="598.28" Importe="95.72" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" SelloCFD="Bw/KVBZgzzLgJF9REHS3Qp/bxoGs7p6IT4fxKodvwaXMKuWUiK07iY3ZPBcMd00Bd0J30906TQi64ivEOohy4f1N08ZBXygSbUGBNzGOgugSllhgp7IGZXL1vkuL5ghSoY+FkBKD8arR5EO6nIx7PNs8T5wIK/dJsUfzudi2sTI1PQZAvnFeHXgOcix+FsJal6PajZrYN0i9Q67/OnU25LlcqWWjn+jT2xaUIrwjRjz+V7zaJfhiXknJgzm/mJWjsjvndvu6fnf+A39lK0dVeSRuNwIj83HZ1rP6Cq22wlgTId4Zp91WwH6dY4H7/AohFgEWE4GYi7W4cHFcOTsuuA==" NoCertificadoSAT="00001000000707310321" RfcProvCertif="CVD110412TF6" UUID="7526EEE6-F33D-5610-BB6A-386C5F0EC23B" FechaTimbrado="2026-06-30T17:49:59" SelloSAT="OdhpDnK/YbEfz6PSQ0FzzeQXvGrKGbNHt/ckHD/2nRRydsZmpemI/EbbNPFBGtBwRMIfR01vlgdyGXc52O2XQbpbW5mPGLnxPGx9Kz/R/rzZYRujiEpRF9/dVq6IHJAjPyITunc9Zc+YQ42BGE+HjPVivdgNo/NqHJ+K9MPcw6tyYMeV9caHp1u5VZghgqk0/igEf1UdAb/VxHL3U3UEHdKX3Xd+acDooFk8Pe49M+tdUiWg/92KR4l3Vi9Oz2QB4gPhseaZYaBXYKdVNEY0TloNcv3vzRPG1KfxL3Y3tktMm2+wJrB2z5IdSvJEFMACM+ua+QxhqskQxrf+RsEeww=="/>
+  </cfdi:Complemento>
+</cfdi:Comprobante>

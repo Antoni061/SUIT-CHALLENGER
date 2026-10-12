@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Sello="gdAI27oaRgQKr+xckCVgocgXWe+TCx+5rmJcl1vYrX7N2LJuARR2GB365IJotH2ggErwhMjnU42/7Bgy6OZwhsUeKt+jtHYuJDNkeQPE4lUV0D69SSfxertJ2jDKE9rkD/IsRTfG1bGfp+HdYNFu5Dv1jqCJMj/2PTcFH4pAESSsbp4e3Lsv96B2tvDekW08CNKWHnrviI3gmPYwG1cw+hlNU938Tln3UPoiLCaYpAxUMkdrXIIm6qGU+xsKTGuctTOFz8TUHIk0Lfl2Vvtmcg9O2ZDbRBa3g/k0qoh9TYO2c+T+9YLQGaTodLpod6bAYYs/C4VNEG69jiVrXdtqHg==" Fecha="2026-07-21T17:23:00" Folio="967" Serie="INV/2026/" FormaPago="99" NoCertificado="00001000000723720361" Certificado="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" CondicionesDePago="30 días" SubTotal="14555.98" Descuento="1164.48" Moneda="MXN" Total="15534.14" TipoDeComprobante="I" Exportacion="01" MetodoPago="PPD" LugarExpedicion="76220">
+  <cfdi:Emisor Rfc="MEGB620114JX6" Nombre="BALDOMERO MEDINA GARZA" RegimenFiscal="612"/>
+  <cfdi:Receptor Rfc="RATL930809LB0" Nombre="LUIS MANUEL RAMIREZ TAFOYA" DomicilioFiscalReceptor="59340" RegimenFiscalReceptor="612" UsoCFDI="G01"/>
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="31211500" NoIdentificacion="TGC112" Cantidad="98.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[TGC112] CATALIZADOR GLOSS 250ML" ValorUnitario="0.010000" Importe="0.980000" ObjetoImp="02" Descuento="0.078400">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="0.901600" Importe="0.144256" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31211500" NoIdentificacion="EAC-100-4" Cantidad="4.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[EAC-100-4] ESMALTE ACRILICO BLANCO GL" ValorUnitario="804.340000" Importe="3217.360000" ObjetoImp="02" Descuento="257.388800">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2959.971200" Importe="473.595392" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31211500" NoIdentificacion="EAC-997-4" Cantidad="4.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[EAC-997-4] ESMALTE ACRILICO NEGRO GL" ValorUnitario="804.340000" Importe="3217.360000" ObjetoImp="02" Descuento="257.388800">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2959.971200" Importe="473.595392" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31211500" NoIdentificacion="PADHP-1" Cantidad="12.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[PADHP-1] PROMOTOR DE ADHERENCIA LT(SOLO PLASTICOS)" ValorUnitario="195.000000" Importe="2340.000000" ObjetoImp="02" Descuento="187.200000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2152.800000" Importe="344.448000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31261501" Cantidad="2.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="FINISH LINE PELICULA PLASTICA 12 x 400" ValorUnitario="589.000000" Importe="1178.000000" ObjetoImp="02" Descuento="94.240000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1083.760000" Importe="173.401600" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31211500" NoIdentificacion="PUL-014-S" Cantidad="1.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[PUL-014-S] BC PERLA UNIVERSAL NARANJA SUPER" ValorUnitario="722.250000" Importe="722.250000" ObjetoImp="02" Descuento="57.780000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="664.470000" Importe="106.315200" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31211500" NoIdentificacion="BCC-840-1" Cantidad="1.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[BCC-840-1] BC PALIO ORO LT" ValorUnitario="533.130000" Importe="533.130000" ObjetoImp="02" Descuento="42.650400">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="490.479600" Importe="78.476736" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31211500" NoIdentificacion="BCC-430-4" Cantidad="2.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[BCC-430-4] BC MARRON ROYAL GL" ValorUnitario="1673.450000" Importe="3346.900000" ObjetoImp="02" Descuento="267.752000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3079.148000" Importe="492.663680" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="2142.64">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="13391.50" Importe="2142.64" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" SelloCFD="gdAI27oaRgQKr+xckCVgocgXWe+TCx+5rmJcl1vYrX7N2LJuARR2GB365IJotH2ggErwhMjnU42/7Bgy6OZwhsUeKt+jtHYuJDNkeQPE4lUV0D69SSfxertJ2jDKE9rkD/IsRTfG1bGfp+HdYNFu5Dv1jqCJMj/2PTcFH4pAESSsbp4e3Lsv96B2tvDekW08CNKWHnrviI3gmPYwG1cw+hlNU938Tln3UPoiLCaYpAxUMkdrXIIm6qGU+xsKTGuctTOFz8TUHIk0Lfl2Vvtmcg9O2ZDbRBa3g/k0qoh9TYO2c+T+9YLQGaTodLpod6bAYYs/C4VNEG69jiVrXdtqHg==" NoCertificadoSAT="00001000000707310321" RfcProvCertif="CVD110412TF6" UUID="63BF24CE-6C0A-5ED7-BAD3-A68DE99A8770" FechaTimbrado="2026-07-21T17:23:02" SelloSAT="aClMLZHWKUcLCp/ZX0YlWIXBmbftF+JPIPRAst9aVaj0/m+Q5D5mkawGLrWihYROHH/dfNc4j3AHsmQXRhcFT1nTJz2qfTbzPmrhl+ljm5lqOgPMQHoyzcfka2xFzIFcRkCUjvJ8aX8uDsen2FB/oscJp2MPlu88guZhMhXke47hGrauhkDotY1CelvnJUmwT/R97NCmlyGKTeck1U0bVb5PcNPqjN6iWrTf+PgyDyeMBDRCsLCzqv2fsQ42W4EObqS1WRsCbPtjYMaKjZKVX8xT+/pIdwJhb3oewIXqiZ9FN4E9Rh95n6qdjS/EolPqUhRnMstWTSS6gBaEm/3xOg=="/>
+  </cfdi:Complemento>
+</cfdi:Comprobante>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Sello="UAGCjgXcBtJtdjmmNq0UWlpBMvpxSUCGyQLIQ3EAK1B4sVYjd/DAzJU7rbbUilM+snL1NXbfM/cRNdVwCD9ZlOhZzdEph9Slcc9LseOJLvizJnMzS5oTUCNAETtq+bRo4Q/9rA+h9nzEqO2y7QuLNwBiYlJhRcq3THDWO7tSkIZkBs6jGwGX3Sg6Av1p+M9jmOxncRKwFdyNw3u2p56efei+NFAIKKd03FJZUnaprF2NSY3d8Weqkh/WU1qnWtb1ZzRf51QIMHamZjOvyQcT1w7RwKuTql7CCw51XmhXj/8WlTb7iHnMxVmgjFLwu7qPVPMz9ENmRK2XiuVT7wJNsg==" Fecha="2026-09-07T09:19:56" Folio="819" Serie="INV/2026/" FormaPago="99" NoCertificado="00001000000723722733" Certificado="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" SubTotal="3722.08" Moneda="MXN" Total="4317.61" TipoDeComprobante="I" Exportacion="01" MetodoPago="PPD" LugarExpedicion="76220">
+  <cfdi:Emisor Rfc="ALM0003033S6" Nombre="AUTO LINEA MULTITRANS" RegimenFiscal="626"/>
+  <cfdi:Receptor Rfc="AIGO850430PS8" Nombre="OSCAR ARVIZU GONZALEZ" DomicilioFiscalReceptor="76130" RegimenFiscalReceptor="612" UsoCFDI="G01"/>
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="31211500" NoIdentificacion="PPC-100-4" Cantidad="1.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[PPC-100-4] ESMALTE POLIURETANO BLANCO GL" ValorUnitario="1438.740000" Importe="1438.740000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1438.740000" Importe="230.198400" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31211500" Cantidad="1.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="KIT GLOSS GL" ValorUnitario="1842.390000" Importe="1842.390000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1842.390000" Importe="294.782400" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31211500" NoIdentificacion="PCH24" Cantidad="1.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[PCH24] PAPEL CHALLENGER 24 X 225 MTS CAFE" ValorUnitario="440.950000" Importe="440.950000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="440.950000" Importe="70.552000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="595.53">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="3722.08" Importe="595.53" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" SelloCFD="UAGCjgXcBtJtdjmmNq0UWlpBMvpxSUCGyQLIQ3EAK1B4sVYjd/DAzJU7rbbUilM+snL1NXbfM/cRNdVwCD9ZlOhZzdEph9Slcc9LseOJLvizJnMzS5oTUCNAETtq+bRo4Q/9rA+h9nzEqO2y7QuLNwBiYlJhRcq3THDWO7tSkIZkBs6jGwGX3Sg6Av1p+M9jmOxncRKwFdyNw3u2p56efei+NFAIKKd03FJZUnaprF2NSY3d8Weqkh/WU1qnWtb1ZzRf51QIMHamZjOvyQcT1w7RwKuTql7CCw51XmhXj/8WlTb7iHnMxVmgjFLwu7qPVPMz9ENmRK2XiuVT7wJNsg==" NoCertificadoSAT="00001000000707310321" RfcProvCertif="CVD110412TF6" UUID="4241C5BC-6459-5890-8A7E-39A5EBCE614F" FechaTimbrado="2026-09-07T09:19:57" SelloSAT="VkognEma4uQ5R/DxKDTJJPmfqRuQafE7z+4WYzefnL9jttSxrmuWEaBFBfGapJIpS2pv5G82jyioU4fkU4BmKDfiHzmIrLiKkyFiGjFg0tNVatkfgIYDhQo5Ixo3NVfqWv10oTJayghkQ55n4YEA2xCJ6vaCCtrG4ecYmbCfeklEGAHKMlGrUQXCLN8oYbJioTmJlABk2c3WF+2bVAIxUzlz0rcEif4iOh4t28pstvei8Mb8DATnw9jz1ZNLFppufaNodB3IksRIaiSENHFp3Mm2RlTnsMu94UoGvvSR9mVqrMegZKSk4LyuMwYzfnbrk5WGluPST3Ti8gqL1mWFCw=="/>
+  </cfdi:Complemento>
+</cfdi:Comprobante>

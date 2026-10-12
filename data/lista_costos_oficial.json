@@ -1,0 +1,2890 @@
+{
+  "TGC1": {
+    "categoria": "Transparentes",
+    "clave": "TGC-1",
+    "descripcion": "FINAL MATE",
+    "unidad": "1 LT",
+    "precio_publico": 486.72,
+    "costo": 166.69
+  },
+  "GLOSSHS": {
+    "categoria": "Transparentes",
+    "clave": "TGC-1",
+    "descripcion": "GLOSS HS",
+    "unidad": "1 LT",
+    "precio_publico": 505.53,
+    "costo": 239.71
+  },
+  "TGC4": {
+    "categoria": "Transparentes",
+    "clave": "TGC-4",
+    "descripcion": "GLOSS HS",
+    "unidad": "4 LT",
+    "precio_publico": 1842.39,
+    "costo": 740.18
+  },
+  "TGC19": {
+    "categoria": "Transparentes",
+    "clave": "TGC-19",
+    "descripcion": "GLOSS HS",
+    "unidad": "19 LT",
+    "precio_publico": 8366.7,
+    "costo": 4601.59
+  },
+  "TTP51": {
+    "categoria": "Transparentes",
+    "clave": "TTP5-1",
+    "descripcion": "KIT TPP 5000",
+    "unidad": "1 LT",
+    "precio_publico": 310.85,
+    "costo": 149.55
+  },
+  "KITTPP5000": {
+    "categoria": "Transparentes",
+    "clave": "TTP5-1",
+    "descripcion": "KIT TPP 5000",
+    "unidad": "1 LT",
+    "precio_publico": 310.85,
+    "costo": 149.55
+  },
+  "TTP54": {
+    "categoria": "Transparentes",
+    "clave": "TTP5-4",
+    "descripcion": "KIT TPP 5000",
+    "unidad": "4 LT",
+    "precio_publico": 1188.0,
+    "costo": 444.02
+  },
+  "EM8001": {
+    "categoria": "Transparentes",
+    "clave": "EM800-1",
+    "descripcion": "KIT EASY MASTER 800",
+    "unidad": "1 LT",
+    "precio_publico": 172.54,
+    "costo": 102.49
+  },
+  "KITEASYMASTER800": {
+    "categoria": "Transparentes",
+    "clave": "EM800-1",
+    "descripcion": "KIT EASY MASTER 800",
+    "unidad": "1 LT",
+    "precio_publico": 172.54,
+    "costo": 102.49
+  },
+  "FINALMATE": {
+    "categoria": "Transparentes",
+    "clave": "TGC-1",
+    "descripcion": "FINAL MATE",
+    "unidad": "1 LT",
+    "precio_publico": 486.72,
+    "costo": 166.69
+  },
+  "F2KGRIS1": {
+    "categoria": "Primarios",
+    "clave": "F2KGRIS1",
+    "descripcion": "FONDO DE RELLENO 2K",
+    "unidad": "1 LT",
+    "precio_publico": 284.0,
+    "costo": 143.77
+  },
+  "FONDODERELLENO2K": {
+    "categoria": "Primarios",
+    "clave": "F2KGRIS1",
+    "descripcion": "FONDO DE RELLENO 2K",
+    "unidad": "1 LT",
+    "precio_publico": 284.0,
+    "costo": 143.77
+  },
+  "F2KGRIS4": {
+    "categoria": "Primarios",
+    "clave": "F2KGRIS4",
+    "descripcion": "FONDO DE RELLENO 2K",
+    "unidad": "4 LT",
+    "precio_publico": 912.0,
+    "costo": 407.1
+  },
+  "FDTM1": {
+    "categoria": "Primarios",
+    "clave": "FDTM-1",
+    "descripcion": "FONDO DE RELLENO DTM",
+    "unidad": "1 LT",
+    "precio_publico": 415.02,
+    "costo": 152.79
+  },
+  "FONDODERELLENODTM": {
+    "categoria": "Primarios",
+    "clave": "FDTM-1",
+    "descripcion": "FONDO DE RELLENO DTM",
+    "unidad": "1 LT",
+    "precio_publico": 415.02,
+    "costo": 152.79
+  },
+  "FDTM4": {
+    "categoria": "Primarios",
+    "clave": "FDTM-4",
+    "descripcion": "FONDO DE RELLENO DTM",
+    "unidad": "4 LT",
+    "precio_publico": 1510.68,
+    "costo": 430.17
+  },
+  "SP2K0011": {
+    "categoria": "Primarios",
+    "clave": "SP2K-001-1",
+    "descripcion": "FONDO DE RELLENO 2K",
+    "unidad": "1 LT",
+    "precio_publico": 228.0,
+    "costo": 143.77
+  },
+  "1KC9044": {
+    "categoria": "Primarios",
+    "clave": "1KC-904-4",
+    "descripcion": "PRIMER 1K",
+    "unidad": "4 LT",
+    "precio_publico": 679.45,
+    "costo": 247.24
+  },
+  "PRIMER1K": {
+    "categoria": "Primarios",
+    "clave": "1KC-904-4",
+    "descripcion": "PRIMER 1K",
+    "unidad": "4 LT",
+    "precio_publico": 679.45,
+    "costo": 247.24
+  },
+  "1KC90419": {
+    "categoria": "Primarios",
+    "clave": "1KC-904-19",
+    "descripcion": "PRIMER 1K",
+    "unidad": "19 LT",
+    "precio_publico": 2969.2,
+    "costo": 1099.64
+  },
+  "NCH4": {
+    "categoria": "Primarios",
+    "clave": "NCH4",
+    "descripcion": "NEGRO CHASIS",
+    "unidad": "4 LT",
+    "precio_publico": 485.0,
+    "costo": 221.48
+  },
+  "NEGROCHASIS": {
+    "categoria": "Primarios",
+    "clave": "NCH4",
+    "descripcion": "NEGRO CHASIS",
+    "unidad": "4 LT",
+    "precio_publico": 485.0,
+    "costo": 221.48
+  },
+  "NCH19": {
+    "categoria": "Primarios",
+    "clave": "NCH19",
+    "descripcion": "NEGRO CHASIS",
+    "unidad": "19 LT",
+    "precio_publico": 2185.0,
+    "costo": 1054.03
+  },
+  "FUG903L": {
+    "categoria": "Primarios",
+    "clave": "FU-G903-L",
+    "descripcion": "FONDO ACRILICO UNIV",
+    "unidad": "1 LT",
+    "precio_publico": 155.1,
+    "costo": 86.17
+  },
+  "FONDOACRILICOUNIV": {
+    "categoria": "Primarios",
+    "clave": "FU-G903-L",
+    "descripcion": "FONDO ACRILICO UNIV",
+    "unidad": "1 LT",
+    "precio_publico": 155.1,
+    "costo": 86.17
+  },
+  "FUG903G": {
+    "categoria": "Primarios",
+    "clave": "FU-G903-G",
+    "descripcion": "FONDO ACRILICO UNIV",
+    "unidad": "4 LT",
+    "precio_publico": 551.26,
+    "costo": 239.68
+  },
+  "FUG903C": {
+    "categoria": "Primarios",
+    "clave": "FU-G903-C",
+    "descripcion": "FONDO ACRILICO UNIV",
+    "unidad": "19 LT",
+    "precio_publico": 2458.64,
+    "costo": 1046.23
+  },
+  "FUB100L": {
+    "categoria": "Primarios",
+    "clave": "FU-B100-L",
+    "descripcion": "FONDO ACRILICO UNIV",
+    "unidad": "1 LT",
+    "precio_publico": 156.23,
+    "costo": 86.17
+  },
+  "FUB100G": {
+    "categoria": "Primarios",
+    "clave": "FU-B100-G",
+    "descripcion": "FONDO ACRILICO UNIV",
+    "unidad": "4 LT",
+    "precio_publico": 550.2,
+    "costo": 239.68
+  },
+  "FUB100C": {
+    "categoria": "Primarios",
+    "clave": "FU-B100-C",
+    "descripcion": "FONDO ACRILICO UNIV",
+    "unidad": "19 LT",
+    "precio_publico": 2402.4,
+    "costo": 1046.23
+  },
+  "FUN99L": {
+    "categoria": "Primarios",
+    "clave": "FU-N99-L",
+    "descripcion": "FONDO ACRILICO UNIV",
+    "unidad": "1 LT",
+    "precio_publico": 155.58,
+    "costo": 86.17
+  },
+  "FUN99G": {
+    "categoria": "Primarios",
+    "clave": "FU-N99-G",
+    "descripcion": "FONDO ACRILICO UNIV",
+    "unidad": "4 LT",
+    "precio_publico": 554.85,
+    "costo": 239.68
+  },
+  "FUN99C": {
+    "categoria": "Primarios",
+    "clave": "FU-N99-C",
+    "descripcion": "FONDO ACRILICO UNIV",
+    "unidad": "19 LT",
+    "precio_publico": 2406.17,
+    "costo": 1046.23
+  },
+  "FUV70L": {
+    "categoria": "Primarios",
+    "clave": "FU-V70-L",
+    "descripcion": "FONDO ACRILICO UNIV",
+    "unidad": "1 LT",
+    "precio_publico": 155.39,
+    "costo": 86.17
+  },
+  "FUV70G": {
+    "categoria": "Primarios",
+    "clave": "FU-V70-G",
+    "descripcion": "FONDO ACRILICO UNIV",
+    "unidad": "4 LT",
+    "precio_publico": 552.0,
+    "costo": 239.68
+  },
+  "FUV70C": {
+    "categoria": "Primarios",
+    "clave": "FU-V70-C",
+    "descripcion": "FONDO ACRILICO UNIV",
+    "unidad": "19 LT",
+    "precio_publico": 2409.53,
+    "costo": 1046.23
+  },
+  "BCC000": {
+    "categoria": "Base Color",
+    "clave": "BCC-000",
+    "descripcion": "FLOTADOR DE ALUMINIOS",
+    "unidad": "Litro",
+    "precio_publico": 288.66,
+    "costo": 96.38
+  },
+  "FLOTADORDEALUMINIOS": {
+    "categoria": "Base Color",
+    "clave": "BCC-000",
+    "descripcion": "FLOTADOR DE ALUMINIOS",
+    "unidad": "Litro",
+    "precio_publico": 288.66,
+    "costo": 96.38
+  },
+  "BCC001": {
+    "categoria": "Base Color",
+    "clave": "BCC-001",
+    "descripcion": "VEHICULO TRANSPARENTE",
+    "unidad": "Galón",
+    "precio_publico": 807.15,
+    "costo": 406.88
+  },
+  "VEHICULOTRANSPARENTE": {
+    "categoria": "Base Color",
+    "clave": "BCC-001",
+    "descripcion": "VEHICULO TRANSPARENTE",
+    "unidad": "Galón",
+    "precio_publico": 807.15,
+    "costo": 406.88
+  },
+  "BCC100": {
+    "categoria": "Base Color",
+    "clave": "BCC-100",
+    "descripcion": "BLANCO",
+    "unidad": "Galón",
+    "precio_publico": 1155.2,
+    "costo": 474.92
+  },
+  "BLANCO": {
+    "categoria": "Base Color",
+    "clave": "BCC-100",
+    "descripcion": "BLANCO",
+    "unidad": "Galón",
+    "precio_publico": 1155.2,
+    "costo": 474.92
+  },
+  "BCC1011": {
+    "categoria": "Base Color",
+    "clave": "BCC-101-1",
+    "descripcion": "BLANCO TORNASOL",
+    "unidad": "Litro",
+    "precio_publico": 533.93,
+    "costo": 250.0
+  },
+  "BLANCOTORNASOL": {
+    "categoria": "Base Color",
+    "clave": "BCC-101-1",
+    "descripcion": "BLANCO TORNASOL",
+    "unidad": "Litro",
+    "precio_publico": 533.93,
+    "costo": 250.0
+  },
+  "BCC209": {
+    "categoria": "Base Color",
+    "clave": "BCC-209",
+    "descripcion": "AMARILLO LIMON",
+    "unidad": "Galón",
+    "precio_publico": 1130.33,
+    "costo": 474.92
+  },
+  "AMARILLOLIMON": {
+    "categoria": "Base Color",
+    "clave": "BCC-209",
+    "descripcion": "AMARILLO LIMON",
+    "unidad": "Galón",
+    "precio_publico": 1130.33,
+    "costo": 474.92
+  },
+  "BCC206": {
+    "categoria": "Base Color",
+    "clave": "BCC-206",
+    "descripcion": "AMARILLO OXIDO",
+    "unidad": "Galón",
+    "precio_publico": 1221.99,
+    "costo": 207.64
+  },
+  "AMARILLOOXIDO": {
+    "categoria": "Base Color",
+    "clave": "BCC-206",
+    "descripcion": "AMARILLO OXIDO",
+    "unidad": "Galón",
+    "precio_publico": 1221.99,
+    "costo": 207.64
+  },
+  "BCC207": {
+    "categoria": "Base Color",
+    "clave": "BCC-207",
+    "descripcion": "AMARILLO CROMO",
+    "unidad": "Galón",
+    "precio_publico": 1221.99,
+    "costo": 474.94
+  },
+  "AMARILLOCROMO": {
+    "categoria": "Base Color",
+    "clave": "BCC-207",
+    "descripcion": "AMARILLO CROMO",
+    "unidad": "Galón",
+    "precio_publico": 1221.99,
+    "costo": 474.94
+  },
+  "BCC212": {
+    "categoria": "Base Color",
+    "clave": "BCC-212",
+    "descripcion": "AMARILLO ORGANICO",
+    "unidad": "Galón",
+    "precio_publico": 1283.06,
+    "costo": 539.64
+  },
+  "AMARILLOORGANICO": {
+    "categoria": "Base Color",
+    "clave": "BCC-212",
+    "descripcion": "AMARILLO ORGANICO",
+    "unidad": "Litro",
+    "precio_publico": 354.0,
+    "costo": 161.16
+  },
+  "BCC280": {
+    "categoria": "Base Color",
+    "clave": "BCC-280",
+    "descripcion": "AMARILLO CANARIO",
+    "unidad": "Galón",
+    "precio_publico": 1283.06,
+    "costo": 539.64
+  },
+  "AMARILLOCANARIO": {
+    "categoria": "Base Color",
+    "clave": "BCC-280",
+    "descripcion": "AMARILLO CANARIO",
+    "unidad": "Litro",
+    "precio_publico": 354.0,
+    "costo": 161.16
+  },
+  "BCC305": {
+    "categoria": "Base Color",
+    "clave": "BCC-305",
+    "descripcion": "NARANJA",
+    "unidad": "Galón",
+    "precio_publico": 1194.25,
+    "costo": 483.04
+  },
+  "NARANJA": {
+    "categoria": "Base Color",
+    "clave": "BCC-305",
+    "descripcion": "NARANJA",
+    "unidad": "Galón",
+    "precio_publico": 1194.25,
+    "costo": 483.04
+  },
+  "BCC306": {
+    "categoria": "Base Color",
+    "clave": "BCC-306",
+    "descripcion": "NARANJA ULTRA",
+    "unidad": "Litro",
+    "precio_publico": 354.0,
+    "costo": 144.98
+  },
+  "NARANJAULTRA": {
+    "categoria": "Base Color",
+    "clave": "BCC-306",
+    "descripcion": "NARANJA ULTRA",
+    "unidad": "Litro",
+    "precio_publico": 354.0,
+    "costo": 144.98
+  },
+  "BCC404": {
+    "categoria": "Base Color",
+    "clave": "BCC-404",
+    "descripcion": "ROJO BRILLANTE",
+    "unidad": "Galón",
+    "precio_publico": 1332.84,
+    "costo": 533.03
+  },
+  "ROJOBRILLANTE": {
+    "categoria": "Base Color",
+    "clave": "BCC-404",
+    "descripcion": "ROJO BRILLANTE",
+    "unidad": "Galón",
+    "precio_publico": 1332.84,
+    "costo": 533.03
+  },
+  "BCC406": {
+    "categoria": "Base Color",
+    "clave": "BCC-406",
+    "descripcion": "ROJO OXIDO",
+    "unidad": "Galón",
+    "precio_publico": 1294.7,
+    "costo": 216.0
+  },
+  "ROJOOXIDO": {
+    "categoria": "Base Color",
+    "clave": "BCC-406",
+    "descripcion": "ROJO OXIDO",
+    "unidad": "Galón",
+    "precio_publico": 1294.7,
+    "costo": 216.0
+  },
+  "BCC407": {
+    "categoria": "Base Color",
+    "clave": "BCC-407",
+    "descripcion": "ROJO MANZANA",
+    "unidad": "Litro",
+    "precio_publico": 460.29,
+    "costo": 220.0
+  },
+  "ROJOMANZANA": {
+    "categoria": "Base Color",
+    "clave": "BCC-407",
+    "descripcion": "ROJO MANZANA",
+    "unidad": "Litro",
+    "precio_publico": 460.29,
+    "costo": 220.0
+  },
+  "BCC408": {
+    "categoria": "Base Color",
+    "clave": "BCC-408",
+    "descripcion": "ROJO BRILLANTE INTENSO",
+    "unidad": "Litro",
+    "precio_publico": 487.92,
+    "costo": 230.0
+  },
+  "ROJOBRILLANTEINTENSO": {
+    "categoria": "Base Color",
+    "clave": "BCC-408",
+    "descripcion": "ROJO BRILLANTE INTENSO",
+    "unidad": "Litro",
+    "precio_publico": 487.92,
+    "costo": 230.0
+  },
+  "BCC410": {
+    "categoria": "Base Color",
+    "clave": "BCC-410",
+    "descripcion": "ROJO FERRARI",
+    "unidad": "Galón",
+    "precio_publico": 1318.81,
+    "costo": 674.64
+  },
+  "ROJOFERRARI": {
+    "categoria": "Base Color",
+    "clave": "BCC-410",
+    "descripcion": "ROJO FERRARI",
+    "unidad": "Galón",
+    "precio_publico": 1318.81,
+    "costo": 674.64
+  },
+  "BCC415": {
+    "categoria": "Base Color",
+    "clave": "BCC-415",
+    "descripcion": "ROJO INF. TRANSPARENTE",
+    "unidad": "Litro",
+    "precio_publico": 438.21,
+    "costo": 231.72
+  },
+  "ROJOINFTRANSPARENTE": {
+    "categoria": "Base Color",
+    "clave": "BCC-415",
+    "descripcion": "ROJO INF. TRANSPARENTE",
+    "unidad": "Litro",
+    "precio_publico": 438.21,
+    "costo": 231.72
+  },
+  "BCC419": {
+    "categoria": "Base Color",
+    "clave": "BCC-419",
+    "descripcion": "MAGENTA",
+    "unidad": "Galón",
+    "precio_publico": 1459.75,
+    "costo": 470.19
+  },
+  "MAGENTA": {
+    "categoria": "Base Color",
+    "clave": "BCC-419",
+    "descripcion": "MAGENTA",
+    "unidad": "Galón",
+    "precio_publico": 1459.75,
+    "costo": 470.19
+  },
+  "BCC424": {
+    "categoria": "Base Color",
+    "clave": "BCC-424",
+    "descripcion": "MARRON PERRINDO",
+    "unidad": "Galón",
+    "precio_publico": 1693.0,
+    "costo": 816.88
+  },
+  "MARRONPERRINDO": {
+    "categoria": "Base Color",
+    "clave": "BCC-424",
+    "descripcion": "MARRON PERRINDO",
+    "unidad": "Galón",
+    "precio_publico": 1693.0,
+    "costo": 816.88
+  },
+  "BCC426": {
+    "categoria": "Base Color",
+    "clave": "BCC-426",
+    "descripcion": "MARRON VIOLETA OBSCURO",
+    "unidad": "Galón",
+    "precio_publico": 1428.39,
+    "costo": 523.64
+  },
+  "MARRONVIOLETAOBSCURO": {
+    "categoria": "Base Color",
+    "clave": "BCC-426",
+    "descripcion": "MARRON VIOLETA OBSCURO",
+    "unidad": "Galón",
+    "precio_publico": 1428.39,
+    "costo": 523.64
+  },
+  "BCC427": {
+    "categoria": "Base Color",
+    "clave": "BCC-427",
+    "descripcion": "MARRON ALIZARINE",
+    "unidad": "Galón",
+    "precio_publico": 1428.39,
+    "costo": 457.0
+  },
+  "MARRONALIZARINE": {
+    "categoria": "Base Color",
+    "clave": "BCC-427",
+    "descripcion": "MARRON ALIZARINE",
+    "unidad": "Galón",
+    "precio_publico": 1428.39,
+    "costo": 457.0
+  },
+  "BCC428": {
+    "categoria": "Base Color",
+    "clave": "BCC-428",
+    "descripcion": "MARRON CLARO",
+    "unidad": "Galón",
+    "precio_publico": 1678.3,
+    "costo": 750.0
+  },
+  "MARRONCLARO": {
+    "categoria": "Base Color",
+    "clave": "BCC-428",
+    "descripcion": "MARRON CLARO",
+    "unidad": "Galón",
+    "precio_publico": 1678.3,
+    "costo": 750.0
+  },
+  "BCC430": {
+    "categoria": "Base Color",
+    "clave": "BCC-430",
+    "descripcion": "MARRON ROYAL",
+    "unidad": "Galón",
+    "precio_publico": 1673.45,
+    "costo": 649.21
+  },
+  "MARRONROYAL": {
+    "categoria": "Base Color",
+    "clave": "BCC-430",
+    "descripcion": "MARRON ROYAL",
+    "unidad": "Galón",
+    "precio_publico": 1673.45,
+    "costo": 649.21
+  },
+  "BCC450": {
+    "categoria": "Base Color",
+    "clave": "BCC-450",
+    "descripcion": "VIOLETA",
+    "unidad": "Litro",
+    "precio_publico": 396.17,
+    "costo": 152.49
+  },
+  "VIOLETA": {
+    "categoria": "Base Color",
+    "clave": "BCC-450",
+    "descripcion": "VIOLETA",
+    "unidad": "Litro",
+    "precio_publico": 396.17,
+    "costo": 152.49
+  },
+  "BCC505": {
+    "categoria": "Base Color",
+    "clave": "BCC-505",
+    "descripcion": "ORO AMARILLENTO",
+    "unidad": "Galón",
+    "precio_publico": 1141.11,
+    "costo": 214.04
+  },
+  "OROAMARILLENTO": {
+    "categoria": "Base Color",
+    "clave": "BCC-505",
+    "descripcion": "ORO AMARILLENTO",
+    "unidad": "Galón",
+    "precio_publico": 1141.11,
+    "costo": 214.04
+  },
+  "BCC506": {
+    "categoria": "Base Color",
+    "clave": "BCC-506",
+    "descripcion": "ORO ROJIZO",
+    "unidad": "Galón",
+    "precio_publico": 1141.11,
+    "costo": 214.04
+  },
+  "OROROJIZO": {
+    "categoria": "Base Color",
+    "clave": "BCC-506",
+    "descripcion": "ORO ROJIZO",
+    "unidad": "Galón",
+    "precio_publico": 1141.11,
+    "costo": 214.04
+  },
+  "BCC604": {
+    "categoria": "Base Color",
+    "clave": "BCC-604",
+    "descripcion": "AZUL TONO VERDOSO",
+    "unidad": "Galón",
+    "precio_publico": 1117.24,
+    "costo": 499.96
+  },
+  "AZULTONOVERDOSO": {
+    "categoria": "Base Color",
+    "clave": "BCC-604",
+    "descripcion": "AZUL TONO VERDOSO",
+    "unidad": "Galón",
+    "precio_publico": 1117.24,
+    "costo": 499.96
+  },
+  "BCC605": {
+    "categoria": "Base Color",
+    "clave": "BCC-605",
+    "descripcion": "AZUL TONO ROJIZO",
+    "unidad": "Galón",
+    "precio_publico": 1117.24,
+    "costo": 493.71
+  },
+  "AZULTONOROJIZO": {
+    "categoria": "Base Color",
+    "clave": "BCC-605",
+    "descripcion": "AZUL TONO ROJIZO",
+    "unidad": "Galón",
+    "precio_publico": 1117.24,
+    "costo": 493.71
+  },
+  "BCC606": {
+    "categoria": "Base Color",
+    "clave": "BCC-606",
+    "descripcion": "AZUL MONASTRAL",
+    "unidad": "Galón",
+    "precio_publico": 1426.72,
+    "costo": 474.0
+  },
+  "AZULMONASTRAL": {
+    "categoria": "Base Color",
+    "clave": "BCC-606",
+    "descripcion": "AZUL MONASTRAL",
+    "unidad": "Galón",
+    "precio_publico": 1426.72,
+    "costo": 474.0
+  },
+  "BCC607": {
+    "categoria": "Base Color",
+    "clave": "BCC-607",
+    "descripcion": "AZUL INDIGO",
+    "unidad": "Galón",
+    "precio_publico": 1398.41,
+    "costo": 500.0
+  },
+  "AZULINDIGO": {
+    "categoria": "Base Color",
+    "clave": "BCC-607",
+    "descripcion": "AZUL INDIGO",
+    "unidad": "Galón",
+    "precio_publico": 1398.41,
+    "costo": 500.0
+  },
+  "BCC609": {
+    "categoria": "Base Color",
+    "clave": "BCC-609",
+    "descripcion": "AZUL DE PRUSIA",
+    "unidad": "Galón",
+    "precio_publico": 1038.34,
+    "costo": 338.28
+  },
+  "AZULDEPRUSIA": {
+    "categoria": "Base Color",
+    "clave": "BCC-609",
+    "descripcion": "AZUL DE PRUSIA",
+    "unidad": "Galón",
+    "precio_publico": 1038.34,
+    "costo": 338.28
+  },
+  "BCC610": {
+    "categoria": "Base Color",
+    "clave": "BCC-610",
+    "descripcion": "AZUL ULTRAMAR",
+    "unidad": "Galón",
+    "precio_publico": 1133.32,
+    "costo": 420.95
+  },
+  "AZULULTRAMAR": {
+    "categoria": "Base Color",
+    "clave": "BCC-610",
+    "descripcion": "AZUL ULTRAMAR",
+    "unidad": "Galón",
+    "precio_publico": 1133.32,
+    "costo": 420.95
+  },
+  "BCC611": {
+    "categoria": "Base Color",
+    "clave": "BCC-611",
+    "descripcion": "AZUL VIOLETA",
+    "unidad": "Litro",
+    "precio_publico": 394.8,
+    "costo": 188.0
+  },
+  "AZULVIOLETA": {
+    "categoria": "Base Color",
+    "clave": "BCC-611",
+    "descripcion": "AZUL VIOLETA",
+    "unidad": "Litro",
+    "precio_publico": 394.8,
+    "costo": 188.0
+  },
+  "BCC702": {
+    "categoria": "Base Color",
+    "clave": "BCC-702",
+    "descripcion": "VERDE DORADO",
+    "unidad": "Litro",
+    "precio_publico": 426.93,
+    "costo": 195.0
+  },
+  "VERDEDORADO": {
+    "categoria": "Base Color",
+    "clave": "BCC-702",
+    "descripcion": "VERDE DORADO",
+    "unidad": "Litro",
+    "precio_publico": 426.93,
+    "costo": 195.0
+  },
+  "BCC708": {
+    "categoria": "Base Color",
+    "clave": "BCC-708",
+    "descripcion": "VERDE ORGANICO",
+    "unidad": "Galón",
+    "precio_publico": 1100.67,
+    "costo": 247.44
+  },
+  "VERDEORGANICO": {
+    "categoria": "Base Color",
+    "clave": "BCC-708",
+    "descripcion": "VERDE ORGANICO",
+    "unidad": "Galón",
+    "precio_publico": 1100.67,
+    "costo": 247.44
+  },
+  "BCC801": {
+    "categoria": "Base Color",
+    "clave": "BCC-801",
+    "descripcion": "ALUMINIO EXTRA FINO",
+    "unidad": "Galón",
+    "precio_publico": 1340.19,
+    "costo": 599.8
+  },
+  "ALUMINIOEXTRAFINO": {
+    "categoria": "Base Color",
+    "clave": "BCC-801",
+    "descripcion": "ALUMINIO EXTRA FINO",
+    "unidad": "Galón",
+    "precio_publico": 1340.19,
+    "costo": 599.8
+  },
+  "BCC802": {
+    "categoria": "Base Color",
+    "clave": "BCC-802",
+    "descripcion": "ALUMINIO FINO",
+    "unidad": "Galón",
+    "precio_publico": 1232.0,
+    "costo": 599.64
+  },
+  "ALUMINIOFINO": {
+    "categoria": "Base Color",
+    "clave": "BCC-802",
+    "descripcion": "ALUMINIO FINO",
+    "unidad": "Galón",
+    "precio_publico": 1232.0,
+    "costo": 599.64
+  },
+  "BCC803": {
+    "categoria": "Base Color",
+    "clave": "BCC-803",
+    "descripcion": "ALUMINIO MEDIANO",
+    "unidad": "Galón",
+    "precio_publico": 1205.38,
+    "costo": 638.24
+  },
+  "ALUMINIOMEDIANO": {
+    "categoria": "Base Color",
+    "clave": "BCC-803",
+    "descripcion": "ALUMINIO MEDIANO",
+    "unidad": "Galón",
+    "precio_publico": 1205.38,
+    "costo": 638.24
+  },
+  "BCC804": {
+    "categoria": "Base Color",
+    "clave": "BCC-804",
+    "descripcion": "ALUMINIO GRUESO",
+    "unidad": "Galón",
+    "precio_publico": 1205.38,
+    "costo": 579.28
+  },
+  "ALUMINIOGRUESO": {
+    "categoria": "Base Color",
+    "clave": "BCC-804",
+    "descripcion": "ALUMINIO GRUESO",
+    "unidad": "Galón",
+    "precio_publico": 1205.38,
+    "costo": 579.28
+  },
+  "BCC805": {
+    "categoria": "Base Color",
+    "clave": "BCC-805",
+    "descripcion": "ALUMINIO EXTRA GRUESO",
+    "unidad": "Galón",
+    "precio_publico": 1260.32,
+    "costo": 588.0
+  },
+  "ALUMINIOEXTRAGRUESO": {
+    "categoria": "Base Color",
+    "clave": "BCC-805",
+    "descripcion": "ALUMINIO EXTRA GRUESO",
+    "unidad": "Galón",
+    "precio_publico": 1260.32,
+    "costo": 588.0
+  },
+  "BCC812": {
+    "categoria": "Base Color",
+    "clave": "BCC-812",
+    "descripcion": "ALUMINIO FINO BRILLANTE",
+    "unidad": "Galón",
+    "precio_publico": 1406.58,
+    "costo": 686.04
+  },
+  "ALUMINIOFINOBRILLANTE": {
+    "categoria": "Base Color",
+    "clave": "BCC-812",
+    "descripcion": "ALUMINIO FINO BRILLANTE",
+    "unidad": "Galón",
+    "precio_publico": 1406.58,
+    "costo": 686.04
+  },
+  "BCC813": {
+    "categoria": "Base Color",
+    "clave": "BCC-813",
+    "descripcion": "ALUMINIO MEDIANO BRILLANTE",
+    "unidad": "Galón",
+    "precio_publico": 1518.15,
+    "costo": 639.64
+  },
+  "ALUMINIOMEDIANOBRILLANTE": {
+    "categoria": "Base Color",
+    "clave": "BCC-813",
+    "descripcion": "ALUMINIO MEDIANO BRILLANTE",
+    "unidad": "Galón",
+    "precio_publico": 1518.15,
+    "costo": 639.64
+  },
+  "BCC814": {
+    "categoria": "Base Color",
+    "clave": "BCC-814",
+    "descripcion": "ALUMINIO GRUESO BRILLANTE",
+    "unidad": "Galón",
+    "precio_publico": 1256.7,
+    "costo": 700.47
+  },
+  "ALUMINIOGRUESOBRILLANTE": {
+    "categoria": "Base Color",
+    "clave": "BCC-814",
+    "descripcion": "ALUMINIO GRUESO BRILLANTE",
+    "unidad": "Galón",
+    "precio_publico": 1256.7,
+    "costo": 700.47
+  },
+  "BCC821": {
+    "categoria": "Base Color",
+    "clave": "BCC-821",
+    "descripcion": "ALUMINIO MEDIANO DESTELLANTE",
+    "unidad": "Galón",
+    "precio_publico": 1518.15,
+    "costo": 667.0
+  },
+  "ALUMINIOMEDIANODESTELLANTE": {
+    "categoria": "Base Color",
+    "clave": "BCC-821",
+    "descripcion": "ALUMINIO MEDIANO DESTELLANTE",
+    "unidad": "Galón",
+    "precio_publico": 1518.15,
+    "costo": 667.0
+  },
+  "BCC822": {
+    "categoria": "Base Color",
+    "clave": "BCC-822",
+    "descripcion": "ALUM DOLLAR FINO",
+    "unidad": "Galón",
+    "precio_publico": 1550.9,
+    "costo": 650.0
+  },
+  "ALUMDOLLARFINO": {
+    "categoria": "Base Color",
+    "clave": "BCC-822",
+    "descripcion": "ALUM DOLLAR FINO",
+    "unidad": "Galón",
+    "precio_publico": 1550.9,
+    "costo": 650.0
+  },
+  "BCC823": {
+    "categoria": "Base Color",
+    "clave": "BCC-823",
+    "descripcion": "ALUM DOLLAR MEDIANO",
+    "unidad": "Galón",
+    "precio_publico": 1523.35,
+    "costo": 650.0
+  },
+  "ALUMDOLLARMEDIANO": {
+    "categoria": "Base Color",
+    "clave": "BCC-823",
+    "descripcion": "ALUM DOLLAR MEDIANO",
+    "unidad": "Galón",
+    "precio_publico": 1523.35,
+    "costo": 650.0
+  },
+  "BCC824": {
+    "categoria": "Base Color",
+    "clave": "BCC-824",
+    "descripcion": "ALUM DOLLAR GRUESO",
+    "unidad": "Galón",
+    "precio_publico": 1527.74,
+    "costo": 650.0
+  },
+  "ALUMDOLLARGRUESO": {
+    "categoria": "Base Color",
+    "clave": "BCC-824",
+    "descripcion": "ALUM DOLLAR GRUESO",
+    "unidad": "Galón",
+    "precio_publico": 1527.74,
+    "costo": 650.0
+  },
+  "BCC831": {
+    "categoria": "Base Color",
+    "clave": "BCC-831",
+    "descripcion": "PLATA REFLECTIVO",
+    "unidad": "Litro",
+    "precio_publico": 564.74,
+    "costo": 272.63
+  },
+  "PLATAREFLECTIVO": {
+    "categoria": "Base Color",
+    "clave": "BCC-831",
+    "descripcion": "PLATA REFLECTIVO",
+    "unidad": "Litro",
+    "precio_publico": 564.74,
+    "costo": 272.63
+  },
+  "BCC840": {
+    "categoria": "Base Color",
+    "clave": "BCC-840",
+    "descripcion": "PALIOT ORO",
+    "unidad": "Litro",
+    "precio_publico": 533.13,
+    "costo": 256.0
+  },
+  "PALIOTORO": {
+    "categoria": "Base Color",
+    "clave": "BCC-840",
+    "descripcion": "PALIOT ORO",
+    "unidad": "Litro",
+    "precio_publico": 533.13,
+    "costo": 256.0
+  },
+  "BCC841": {
+    "categoria": "Base Color",
+    "clave": "BCC-841",
+    "descripcion": "PALIOT BLUE",
+    "unidad": "Litro",
+    "precio_publico": 515.2,
+    "costo": 274.9
+  },
+  "PALIOTBLUE": {
+    "categoria": "Base Color",
+    "clave": "BCC-841",
+    "descripcion": "PALIOT BLUE",
+    "unidad": "Litro",
+    "precio_publico": 515.2,
+    "costo": 274.9
+  },
+  "BCC842": {
+    "categoria": "Base Color",
+    "clave": "BCC-842",
+    "descripcion": "PALIOT TANGERINE",
+    "unidad": "Litro",
+    "precio_publico": 558.45,
+    "costo": 289.92
+  },
+  "PALIOTTANGERINE": {
+    "categoria": "Base Color",
+    "clave": "BCC-842",
+    "descripcion": "PALIOT TANGERINE",
+    "unidad": "Litro",
+    "precio_publico": 558.45,
+    "costo": 289.92
+  },
+  "BCC843": {
+    "categoria": "Base Color",
+    "clave": "BCC-843",
+    "descripcion": "PALIOT CHERRY",
+    "unidad": "Litro",
+    "precio_publico": 854.93,
+    "costo": 390.0
+  },
+  "PALIOTCHERRY": {
+    "categoria": "Base Color",
+    "clave": "BCC-843",
+    "descripcion": "PALIOT CHERRY",
+    "unidad": "Litro",
+    "precio_publico": 854.93,
+    "costo": 390.0
+  },
+  "BCC844": {
+    "categoria": "Base Color",
+    "clave": "BCC-844",
+    "descripcion": "PALIOT ROJO",
+    "unidad": "Litro",
+    "precio_publico": 532.86,
+    "costo": 396.79
+  },
+  "PALIOTROJO": {
+    "categoria": "Base Color",
+    "clave": "BCC-844",
+    "descripcion": "PALIOT ROJO",
+    "unidad": "Litro",
+    "precio_publico": 532.86,
+    "costo": 396.79
+  },
+  "BCC845": {
+    "categoria": "Base Color",
+    "clave": "BCC-845",
+    "descripcion": "PALIOT ORANGE",
+    "unidad": "Litro",
+    "precio_publico": 532.86,
+    "costo": 289.92
+  },
+  "PALIOTORANGE": {
+    "categoria": "Base Color",
+    "clave": "BCC-845",
+    "descripcion": "PALIOT ORANGE",
+    "unidad": "Litro",
+    "precio_publico": 532.86,
+    "costo": 289.92
+  },
+  "BCC997": {
+    "categoria": "Base Color",
+    "clave": "BCC-997",
+    "descripcion": "NEGRO",
+    "unidad": "Galón",
+    "precio_publico": 1177.69,
+    "costo": 436.0
+  },
+  "NEGRO": {
+    "categoria": "Base Color",
+    "clave": "BCC-997",
+    "descripcion": "NEGRO",
+    "unidad": "Galón",
+    "precio_publico": 1177.69,
+    "costo": 436.0
+  },
+  "BCC999": {
+    "categoria": "Base Color",
+    "clave": "BCC-999",
+    "descripcion": "DEEP BLACK",
+    "unidad": "Galón",
+    "precio_publico": 1310.6,
+    "costo": 524.24
+  },
+  "DEEPBLACK": {
+    "categoria": "Base Color",
+    "clave": "BCC-999",
+    "descripcion": "DEEP BLACK",
+    "unidad": "Galón",
+    "precio_publico": 1310.6,
+    "costo": 524.24
+  },
+  "PUL001F": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-001-F",
+    "descripcion": "PERLA BLANCA FINA",
+    "unidad": "Litro",
+    "precio_publico": 360.59,
+    "costo": 120.28
+  },
+  "PERLABLANCAFINA": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-001-F",
+    "descripcion": "PERLA BLANCA FINA",
+    "unidad": "Litro",
+    "precio_publico": 360.59,
+    "costo": 120.28
+  },
+  "PUL001M": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-001-M",
+    "descripcion": "PERLA BLANCA",
+    "unidad": "Litro",
+    "precio_publico": 360.59,
+    "costo": 132.2
+  },
+  "PERLABLANCA": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-001-M",
+    "descripcion": "PERLA BLANCA",
+    "unidad": "Litro",
+    "precio_publico": 360.59,
+    "costo": 132.2
+  },
+  "PUL002F": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-002-F",
+    "descripcion": "PERLA AZUL FINA",
+    "unidad": "Litro",
+    "precio_publico": 360.59,
+    "costo": 120.28
+  },
+  "PERLAAZULFINA": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-002-F",
+    "descripcion": "PERLA AZUL FINA",
+    "unidad": "Litro",
+    "precio_publico": 360.59,
+    "costo": 120.28
+  },
+  "PUL002M": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-002-M",
+    "descripcion": "PERLA AZUL",
+    "unidad": "Litro",
+    "precio_publico": 360.59,
+    "costo": 132.2
+  },
+  "PERLAAZUL": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-002-M",
+    "descripcion": "PERLA AZUL",
+    "unidad": "Litro",
+    "precio_publico": 360.59,
+    "costo": 132.2
+  },
+  "PUL003F": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-003-F",
+    "descripcion": "PERLA VERDE FINA",
+    "unidad": "Litro",
+    "precio_publico": 360.59,
+    "costo": 120.28
+  },
+  "PERLAVERDEFINA": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-003-F",
+    "descripcion": "PERLA VERDE FINA",
+    "unidad": "Litro",
+    "precio_publico": 360.59,
+    "costo": 120.28
+  },
+  "PUL003M": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-003-M",
+    "descripcion": "PERLA VERDE",
+    "unidad": "Litro",
+    "precio_publico": 360.59,
+    "costo": 132.2
+  },
+  "PERLAVERDE": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-003-M",
+    "descripcion": "PERLA VERDE",
+    "unidad": "Litro",
+    "precio_publico": 360.59,
+    "costo": 132.2
+  },
+  "PUL004F": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-004-F",
+    "descripcion": "PERLA DORADA FINA",
+    "unidad": "Litro",
+    "precio_publico": 360.59,
+    "costo": 120.28
+  },
+  "PERLADORADAFINA": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-004-F",
+    "descripcion": "PERLA DORADA FINA",
+    "unidad": "Litro",
+    "precio_publico": 360.59,
+    "costo": 120.28
+  },
+  "PUL004M": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-004-M",
+    "descripcion": "PERLA DORADA",
+    "unidad": "Litro",
+    "precio_publico": 360.59,
+    "costo": 132.2
+  },
+  "PERLADORADA": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-004-M",
+    "descripcion": "PERLA DORADA",
+    "unidad": "Litro",
+    "precio_publico": 360.59,
+    "costo": 132.2
+  },
+  "PUL005F": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-005-F",
+    "descripcion": "PERLA ROJA FINA",
+    "unidad": "Litro",
+    "precio_publico": 360.59,
+    "costo": 120.28
+  },
+  "PERLAROJAFINA": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-005-F",
+    "descripcion": "PERLA ROJA FINA",
+    "unidad": "Litro",
+    "precio_publico": 360.59,
+    "costo": 120.28
+  },
+  "PUL005M": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-005-M",
+    "descripcion": "PERLA ROJA",
+    "unidad": "Litro",
+    "precio_publico": 360.59,
+    "costo": 132.2
+  },
+  "PERLAROJA": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-005-M",
+    "descripcion": "PERLA ROJA",
+    "unidad": "Litro",
+    "precio_publico": 360.59,
+    "costo": 132.2
+  },
+  "PUL006M": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-006-M",
+    "descripcion": "PERLA ROSA",
+    "unidad": "Litro",
+    "precio_publico": 360.59,
+    "costo": 132.2
+  },
+  "PERLAROSA": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-006-M",
+    "descripcion": "PERLA ROSA",
+    "unidad": "Litro",
+    "precio_publico": 360.59,
+    "costo": 132.2
+  },
+  "PUL007M": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-007-M",
+    "descripcion": "PERLA BRONCE",
+    "unidad": "Litro",
+    "precio_publico": 360.59,
+    "costo": 132.2
+  },
+  "PERLABRONCE": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-007-M",
+    "descripcion": "PERLA BRONCE",
+    "unidad": "Litro",
+    "precio_publico": 360.59,
+    "costo": 132.2
+  },
+  "PUL008M": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-008-M",
+    "descripcion": "PERLA COBRE",
+    "unidad": "Litro",
+    "precio_publico": 360.59,
+    "costo": 132.2
+  },
+  "PERLACOBRE": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-008-M",
+    "descripcion": "PERLA COBRE",
+    "unidad": "Litro",
+    "precio_publico": 360.59,
+    "costo": 132.2
+  },
+  "PUL009M": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-009-M",
+    "descripcion": "PERLA VIOLETA",
+    "unidad": "Litro",
+    "precio_publico": 360.59,
+    "costo": 132.2
+  },
+  "PERLAVIOLETA": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-009-M",
+    "descripcion": "PERLA VIOLETA",
+    "unidad": "Litro",
+    "precio_publico": 360.59,
+    "costo": 132.2
+  },
+  "PUL009F": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-009-F",
+    "descripcion": "PERLA VIOLETA FINA",
+    "unidad": "Litro",
+    "precio_publico": 360.59,
+    "costo": 120.28
+  },
+  "PERLAVIOLETAFINA": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-009-F",
+    "descripcion": "PERLA VIOLETA FINA",
+    "unidad": "Litro",
+    "precio_publico": 360.59,
+    "costo": 120.28
+  },
+  "PUL010M": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-010-M",
+    "descripcion": "PERLA VERDE MUSGO",
+    "unidad": "Litro",
+    "precio_publico": 385.2,
+    "costo": 144.2
+  },
+  "PERLAVERDEMUSGO": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-010-M",
+    "descripcion": "PERLA VERDE MUSGO",
+    "unidad": "Litro",
+    "precio_publico": 385.2,
+    "costo": 144.2
+  },
+  "PUL011M": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-011-M",
+    "descripcion": "PERLA COLIBRÍ",
+    "unidad": "Litro",
+    "precio_publico": 642.0,
+    "costo": 235.6
+  },
+  "PERLACOLIBR": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-011-M",
+    "descripcion": "PERLA COLIBRÍ",
+    "unidad": "Litro",
+    "precio_publico": 642.0,
+    "costo": 235.6
+  },
+  "PUL012M": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-012-M",
+    "descripcion": "PERLA ESCARABAJO",
+    "unidad": "Litro",
+    "precio_publico": 642.0,
+    "costo": 245.4
+  },
+  "PERLAESCARABAJO": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-012-M",
+    "descripcion": "PERLA ESCARABAJO",
+    "unidad": "Litro",
+    "precio_publico": 642.0,
+    "costo": 245.4
+  },
+  "PUL001X": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-001-X",
+    "descripcion": "PERLA BLANCA XIRÁLICA",
+    "unidad": "Litro",
+    "precio_publico": 722.25,
+    "costo": 188.3
+  },
+  "PERLABLANCAXIRLICA": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-001-X",
+    "descripcion": "PERLA BLANCA XIRÁLICA",
+    "unidad": "Litro",
+    "precio_publico": 722.25,
+    "costo": 188.3
+  },
+  "PUL002X": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-002-X",
+    "descripcion": "PERLA AZUL XIRÁLICA",
+    "unidad": "Litro",
+    "precio_publico": 722.25,
+    "costo": 188.0
+  },
+  "PERLAAZULXIRLICA": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-002-X",
+    "descripcion": "PERLA AZUL XIRÁLICA",
+    "unidad": "Litro",
+    "precio_publico": 722.25,
+    "costo": 188.0
+  },
+  "PUL003X": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-003-X",
+    "descripcion": "PERLA VERDE XIRÁLICA",
+    "unidad": "Litro",
+    "precio_publico": 722.25,
+    "costo": 188.0
+  },
+  "PERLAVERDEXIRLICA": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-003-X",
+    "descripcion": "PERLA VERDE XIRÁLICA",
+    "unidad": "Litro",
+    "precio_publico": 722.25,
+    "costo": 188.0
+  },
+  "PUL004X": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-004-X",
+    "descripcion": "PERLA DORADA XIRÁLICA",
+    "unidad": "Litro",
+    "precio_publico": 722.25,
+    "costo": 188.0
+  },
+  "PERLADORADAXIRLICA": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-004-X",
+    "descripcion": "PERLA DORADA XIRÁLICA",
+    "unidad": "Litro",
+    "precio_publico": 722.25,
+    "costo": 188.0
+  },
+  "PUL008X": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-008-X",
+    "descripcion": "PERLA COBRE XIRÁLICA",
+    "unidad": "Litro",
+    "precio_publico": 722.25,
+    "costo": 188.3
+  },
+  "PERLACOBREXIRLICA": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-008-X",
+    "descripcion": "PERLA COBRE XIRÁLICA",
+    "unidad": "Litro",
+    "precio_publico": 722.25,
+    "costo": 188.3
+  },
+  "PUL005X": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-005-X",
+    "descripcion": "PERLA ROJA XIRÁLICA",
+    "unidad": "Litro",
+    "precio_publico": 722.25,
+    "costo": 188.3
+  },
+  "PERLAROJAXIRLICA": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-005-X",
+    "descripcion": "PERLA ROJA XIRÁLICA",
+    "unidad": "Litro",
+    "precio_publico": 722.25,
+    "costo": 188.3
+  },
+  "PUL006X": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-006-X",
+    "descripcion": "PERLA ROSA XIRÁLICA",
+    "unidad": "Litro",
+    "precio_publico": 722.25,
+    "costo": 188.3
+  },
+  "PERLAROSAXIRLICA": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-006-X",
+    "descripcion": "PERLA ROSA XIRÁLICA",
+    "unidad": "Litro",
+    "precio_publico": 722.25,
+    "costo": 188.3
+  },
+  "PUL009X": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-009-X",
+    "descripcion": "PERLA VIOLETA XIRÁLICA",
+    "unidad": "Litro",
+    "precio_publico": 722.25,
+    "costo": 200.3
+  },
+  "PERLAVIOLETAXIRLICA": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-009-X",
+    "descripcion": "PERLA VIOLETA XIRÁLICA",
+    "unidad": "Litro",
+    "precio_publico": 722.25,
+    "costo": 200.3
+  },
+  "PULREDX": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-RED-X",
+    "descripcion": "PERLA RED APPLE XIRÁLICA",
+    "unidad": "Litro",
+    "precio_publico": 722.25,
+    "costo": 203.17
+  },
+  "PERLAREDAPPLEXIRLICA": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-RED-X",
+    "descripcion": "PERLA RED APPLE XIRÁLICA",
+    "unidad": "Litro",
+    "precio_publico": 722.25,
+    "costo": 203.17
+  },
+  "PUL013S": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-013-S",
+    "descripcion": "PERLA ROJA SÚPER",
+    "unidad": "Litro",
+    "precio_publico": 722.25,
+    "costo": 289.3
+  },
+  "PERLAROJASPER": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-013-S",
+    "descripcion": "PERLA ROJA SÚPER",
+    "unidad": "Litro",
+    "precio_publico": 722.25,
+    "costo": 289.3
+  },
+  "PUL014S": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-014-S",
+    "descripcion": "PERLA NARANJA SÚPER",
+    "unidad": "Litro",
+    "precio_publico": 722.25,
+    "costo": 268.2
+  },
+  "PERLANARANJASPER": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-014-S",
+    "descripcion": "PERLA NARANJA SÚPER",
+    "unidad": "Litro",
+    "precio_publico": 722.25,
+    "costo": 268.2
+  },
+  "PUL005L": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-005-L",
+    "descripcion": "PERLA ROJO LAVA",
+    "unidad": "Litro",
+    "precio_publico": 936.35,
+    "costo": 377.18
+  },
+  "PERLAROJOLAVA": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-005-L",
+    "descripcion": "PERLA ROJO LAVA",
+    "unidad": "Litro",
+    "precio_publico": 936.35,
+    "costo": 377.18
+  },
+  "PUL015X": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-015-X",
+    "descripcion": "PERLA PLATA CRISTAL BTE XIRÁLICA",
+    "unidad": "Litro",
+    "precio_publico": 936.35,
+    "costo": 210.17
+  },
+  "PERLAPLATACRISTALBTEXIRLICA": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-015-X",
+    "descripcion": "PERLA PLATA CRISTAL BTE XIRÁLICA",
+    "unidad": "Litro",
+    "precio_publico": 936.35,
+    "costo": 210.17
+  },
+  "PUL015XF": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-015-XF",
+    "descripcion": "PERLA PLATA CRISTAL FINA BTE XIRÁLICA",
+    "unidad": "Litro",
+    "precio_publico": 936.35,
+    "costo": 210.17
+  },
+  "PERLAPLATACRISTALFINABTEXIRLICA": {
+    "categoria": "Perlas Universales Líquidas",
+    "clave": "PUL-015-XF",
+    "descripcion": "PERLA PLATA CRISTAL FINA BTE XIRÁLICA",
+    "unidad": "Litro",
+    "precio_publico": 936.35,
+    "costo": 210.17
+  },
+  "CANA1": {
+    "categoria": "Tintas Candy",
+    "clave": "CANA-1",
+    "descripcion": "CANDY APPLE",
+    "unidad": "Litro",
+    "precio_publico": 802.5,
+    "costo": 350.0
+  },
+  "CANDYAPPLE": {
+    "categoria": "Tintas Candy",
+    "clave": "CANA-1",
+    "descripcion": "CANDY APPLE",
+    "unidad": "Litro",
+    "precio_publico": 802.5,
+    "costo": 350.0
+  },
+  "ROJC1": {
+    "categoria": "Tintas Candy",
+    "clave": "ROJC-1",
+    "descripcion": "ROJO CEREZA",
+    "unidad": "Litro",
+    "precio_publico": 802.5,
+    "costo": 350.0
+  },
+  "ROJOCEREZA": {
+    "categoria": "Tintas Candy",
+    "clave": "ROJC-1",
+    "descripcion": "ROJO CEREZA",
+    "unidad": "Litro",
+    "precio_publico": 802.5,
+    "costo": 350.0
+  },
+  "PPC1004": {
+    "categoria": "Esmalte de Poliuretano",
+    "clave": "PPC-100-4",
+    "descripcion": "BLANCO",
+    "unidad": "4 LT",
+    "precio_publico": 1438.74,
+    "costo": 539.36
+  },
+  "PPC10019": {
+    "categoria": "Esmalte de Poliuretano",
+    "clave": "PPC-100-19",
+    "descripcion": "BLANCO",
+    "unidad": "19 LT",
+    "precio_publico": 6384.4,
+    "costo": 2419.0
+  },
+  "PPC9974": {
+    "categoria": "Esmalte de Poliuretano",
+    "clave": "PPC-997-4",
+    "descripcion": "NEGRO",
+    "unidad": "4 LT",
+    "precio_publico": 1541.57,
+    "costo": 539.36
+  },
+  "PPC99719": {
+    "categoria": "Esmalte de Poliuretano",
+    "clave": "PPC-997-19",
+    "descripcion": "NEGRO",
+    "unidad": "19 LT",
+    "precio_publico": 6663.43,
+    "costo": 2044.7
+  },
+  "PPC2044": {
+    "categoria": "Esmalte de Poliuretano",
+    "clave": "PPC-204-4",
+    "descripcion": "AMARILLO LIMÓN",
+    "unidad": "4 LT",
+    "precio_publico": 1541.57,
+    "costo": 539.0
+  },
+  "AMARILLOLIMN": {
+    "categoria": "Esmalte de Poliuretano",
+    "clave": "PPC-204-4",
+    "descripcion": "AMARILLO LIMÓN",
+    "unidad": "4 LT",
+    "precio_publico": 1541.57,
+    "costo": 539.0
+  },
+  "PPC20419": {
+    "categoria": "Esmalte de Poliuretano",
+    "clave": "PPC-204-19",
+    "descripcion": "AMARILLO LIMÓN",
+    "unidad": "19 LT",
+    "precio_publico": 6663.43,
+    "costo": 2449.71
+  },
+  "PPC2084": {
+    "categoria": "Esmalte de Poliuretano",
+    "clave": "PPC-208-4",
+    "descripcion": "AMARILLO ORGANICO",
+    "unidad": "4 LT",
+    "precio_publico": 1448.78,
+    "costo": 539.64
+  },
+  "PPC4044": {
+    "categoria": "Esmalte de Poliuretano",
+    "clave": "PPC-404-4",
+    "descripcion": "ROJO BRILLANTE",
+    "unidad": "4 LT",
+    "precio_publico": 1644.29,
+    "costo": 587.36
+  },
+  "PPC40419": {
+    "categoria": "Esmalte de Poliuretano",
+    "clave": "PPC-404-19",
+    "descripcion": "ROJO BRILLANTE",
+    "unidad": "19 LT",
+    "precio_publico": 7208.92,
+    "costo": 2710.96
+  },
+  "PCC2074": {
+    "categoria": "Esmalte de Poliuretano",
+    "clave": "PCC-207-4",
+    "descripcion": "AMARILLO CROMO",
+    "unidad": "4 LT",
+    "precio_publico": 1541.57,
+    "costo": 496.0
+  },
+  "PCC3054": {
+    "categoria": "Esmalte de Poliuretano",
+    "clave": "PCC-305-4",
+    "descripcion": "NARANJA",
+    "unidad": "4 LT",
+    "precio_publico": 1541.57,
+    "costo": 483.04
+  },
+  "PCC6064": {
+    "categoria": "Esmalte de Poliuretano",
+    "clave": "PCC-606-4",
+    "descripcion": "AZUL MONASTRAL",
+    "unidad": "4 LT",
+    "precio_publico": 1541.57,
+    "costo": 474.0
+  },
+  "PCC6054": {
+    "categoria": "Esmalte de Poliuretano",
+    "clave": "PCC-605-4",
+    "descripcion": "AZUL ROJIZO",
+    "unidad": "4 LT",
+    "precio_publico": 1541.57,
+    "costo": 493.71
+  },
+  "AZULROJIZO": {
+    "categoria": "Esmalte de Poliuretano",
+    "clave": "PCC-605-4",
+    "descripcion": "AZUL ROJIZO",
+    "unidad": "4 LT",
+    "precio_publico": 1541.57,
+    "costo": 493.71
+  },
+  "PCC6044": {
+    "categoria": "Esmalte de Poliuretano",
+    "clave": "PCC-604-4",
+    "descripcion": "AZUL VERDOSO",
+    "unidad": "4 LT",
+    "precio_publico": 1541.57,
+    "costo": 499.96
+  },
+  "AZULVERDOSO": {
+    "categoria": "Esmalte de Poliuretano",
+    "clave": "PCC-604-4",
+    "descripcion": "AZUL VERDOSO",
+    "unidad": "4 LT",
+    "precio_publico": 1541.57,
+    "costo": 499.96
+  },
+  "PCC6094": {
+    "categoria": "Esmalte de Poliuretano",
+    "clave": "PCC-609-4",
+    "descripcion": "AZUL DE PRUSIA",
+    "unidad": "4 LT",
+    "precio_publico": 1541.57,
+    "costo": 338.28
+  },
+  "EAC1004": {
+    "categoria": "Esmalte Acrílico",
+    "clave": "EAC-100-4",
+    "descripcion": "BLANCO",
+    "unidad": "4 LT",
+    "precio_publico": 804.34,
+    "costo": 474.92
+  },
+  "EAC10019": {
+    "categoria": "Esmalte Acrílico",
+    "clave": "EAC-100-19",
+    "descripcion": "BLANCO",
+    "unidad": "19 LT",
+    "precio_publico": 3476.76,
+    "costo": 2191.62
+  },
+  "EAC2044": {
+    "categoria": "Esmalte Acrílico",
+    "clave": "EAC-204-4",
+    "descripcion": "AMARILLO LIMON",
+    "unidad": "4 LT",
+    "precio_publico": 811.72,
+    "costo": 474.92
+  },
+  "EAC20419": {
+    "categoria": "Esmalte Acrílico",
+    "clave": "EAC-204-19",
+    "descripcion": "AMARILLO LIMON",
+    "unidad": "19 LT",
+    "precio_publico": 3508.67,
+    "costo": 2191.62
+  },
+  "EAC2064": {
+    "categoria": "Esmalte Acrílico",
+    "clave": "EAC-206-4",
+    "descripcion": "AMARILLO OXIDO",
+    "unidad": "4 LT",
+    "precio_publico": 811.72,
+    "costo": 207.64
+  },
+  "EAC2074": {
+    "categoria": "Esmalte Acrílico",
+    "clave": "EAC-207-4",
+    "descripcion": "AMARILLO CROMO",
+    "unidad": "4 LT",
+    "precio_publico": 811.72,
+    "costo": 474.94
+  },
+  "EAC3054": {
+    "categoria": "Esmalte Acrílico",
+    "clave": "EAC-305-4",
+    "descripcion": "NARANJA",
+    "unidad": "4 LT",
+    "precio_publico": 804.34,
+    "costo": 483.04
+  },
+  "EAC4064": {
+    "categoria": "Esmalte Acrílico",
+    "clave": "EAC-406-4",
+    "descripcion": "ROJO OXIDO",
+    "unidad": "4 LT",
+    "precio_publico": 829.25,
+    "costo": 216.0
+  },
+  "EAC4114": {
+    "categoria": "Esmalte Acrílico",
+    "clave": "EAC-411-4",
+    "descripcion": "ROJO BRILLANTE",
+    "unidad": "4 LT",
+    "precio_publico": 829.25,
+    "costo": 533.03
+  },
+  "EAC41119": {
+    "categoria": "Esmalte Acrílico",
+    "clave": "EAC-411-19",
+    "descripcion": "ROJO BRILLANTE",
+    "unidad": "19 LT",
+    "precio_publico": 3584.42,
+    "costo": 2471.25
+  },
+  "EAC6094": {
+    "categoria": "Esmalte Acrílico",
+    "clave": "EAC-609-4",
+    "descripcion": "AZUL DE PRUSIA",
+    "unidad": "4 LT",
+    "precio_publico": 811.72,
+    "costo": 338.28
+  },
+  "EAC60919": {
+    "categoria": "Esmalte Acrílico",
+    "clave": "EAC-609-19",
+    "descripcion": "AZUL DE PRUSIA",
+    "unidad": "19 LT",
+    "precio_publico": 3508.67,
+    "costo": 1551.08
+  },
+  "EAC7084": {
+    "categoria": "Esmalte Acrílico",
+    "clave": "EAC-708-4",
+    "descripcion": "VERDE ORGANICO",
+    "unidad": "4 LT",
+    "precio_publico": 811.72,
+    "costo": 247.44
+  },
+  "EAC70819": {
+    "categoria": "Esmalte Acrílico",
+    "clave": "EAC-708-19",
+    "descripcion": "VERDE ORGANICO",
+    "unidad": "19 LT",
+    "precio_publico": 3508.67,
+    "costo": 1170.34
+  },
+  "EAC8034": {
+    "categoria": "Esmalte Acrílico",
+    "clave": "EAC-803-4",
+    "descripcion": "ALUMINIO MEDIANO",
+    "unidad": "4 LT",
+    "precio_publico": 801.71,
+    "costo": 638.24
+  },
+  "EAC9974": {
+    "categoria": "Esmalte Acrílico",
+    "clave": "EAC-997-4",
+    "descripcion": "NEGRO",
+    "unidad": "4 LT",
+    "precio_publico": 804.34,
+    "costo": 436.0
+  },
+  "EAC99719": {
+    "categoria": "Esmalte Acrílico",
+    "clave": "EAC-997-19",
+    "descripcion": "NEGRO",
+    "unidad": "19 LT",
+    "precio_publico": 3476.76,
+    "costo": 2006.75
+  },
+  "CFC10104": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1010-4",
+    "descripcion": "BLANCO",
+    "unidad": "4 LT",
+    "precio_publico": 434.0,
+    "costo": 229.88
+  },
+  "CFC101019": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1010-19",
+    "descripcion": "BLANCO",
+    "unidad": "19 LT",
+    "precio_publico": 1933.0,
+    "costo": 1063.83
+  },
+  "CFC10114": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1011-4",
+    "descripcion": "BLANCO MATE",
+    "unidad": "4 LT",
+    "precio_publico": 434.0,
+    "costo": 258.96
+  },
+  "BLANCOMATE": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1011-4",
+    "descripcion": "BLANCO MATE",
+    "unidad": "4 LT",
+    "precio_publico": 434.0,
+    "costo": 258.96
+  },
+  "CFC101119": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1011-19",
+    "descripcion": "BLANCO MATE",
+    "unidad": "19 LT",
+    "precio_publico": 1933.0,
+    "costo": 1215.0
+  },
+  "CFC10904": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1090-4",
+    "descripcion": "NEGRO",
+    "unidad": "4 LT",
+    "precio_publico": 434.0,
+    "costo": 212.82
+  },
+  "CFC109019": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1090-19",
+    "descripcion": "NEGRO",
+    "unidad": "19 LT",
+    "precio_publico": 1933.0,
+    "costo": 985.9
+  },
+  "CFC10914": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1091-4",
+    "descripcion": "NEGRO MATE",
+    "unidad": "4 LT",
+    "precio_publico": 434.0,
+    "costo": 231.16
+  },
+  "NEGROMATE": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1091-4",
+    "descripcion": "NEGRO MATE",
+    "unidad": "4 LT",
+    "precio_publico": 434.0,
+    "costo": 231.16
+  },
+  "CFC109119": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1091-19",
+    "descripcion": "NEGRO MATE",
+    "unidad": "19 LT",
+    "precio_publico": 1933.0,
+    "costo": 1100.0
+  },
+  "CFC10204": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1020-4",
+    "descripcion": "AMARILLO LIMON",
+    "unidad": "4 LT",
+    "precio_publico": 434.0,
+    "costo": 273.68
+  },
+  "CFC102019": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1020-19",
+    "descripcion": "AMARILLO LIMON",
+    "unidad": "19 LT",
+    "precio_publico": 1933.0,
+    "costo": 1270.98
+  },
+  "CFC10224": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1022-4",
+    "descripcion": "AMARILLO CROMO",
+    "unidad": "4 LT",
+    "precio_publico": 434.0,
+    "costo": 257.8
+  },
+  "CFC102219": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1022-19",
+    "descripcion": "AMARILLO CROMO",
+    "unidad": "19 LT",
+    "precio_publico": 1933.0,
+    "costo": 1226.55
+  },
+  "CFC10234": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1023-4",
+    "descripcion": "AMARILLO OXIDO",
+    "unidad": "4 LT",
+    "precio_publico": 434.0,
+    "costo": 207.64
+  },
+  "CFC102319": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1023-19",
+    "descripcion": "AMARILLO OXIDO",
+    "unidad": "19 LT",
+    "precio_publico": 1933.0,
+    "costo": 988.29
+  },
+  "CFC10944": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1094-4",
+    "descripcion": "CHOCOLATE SATIN",
+    "unidad": "4 LT",
+    "precio_publico": 434.0,
+    "costo": 196.44
+  },
+  "CHOCOLATESATIN": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1094-4",
+    "descripcion": "CHOCOLATE SATIN",
+    "unidad": "4 LT",
+    "precio_publico": 434.0,
+    "costo": 196.44
+  },
+  "CFC109419": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1094-19",
+    "descripcion": "CHOCOLATE SATIN",
+    "unidad": "19 LT",
+    "precio_publico": 1933.0,
+    "costo": 935.09
+  },
+  "CFC10954": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1095-4",
+    "descripcion": "CHOCOLATE SM",
+    "unidad": "4 LT",
+    "precio_publico": 434.0,
+    "costo": 220.56
+  },
+  "CHOCOLATESM": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1095-4",
+    "descripcion": "CHOCOLATE SM",
+    "unidad": "4 LT",
+    "precio_publico": 434.0,
+    "costo": 220.56
+  },
+  "CFC109519": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1095-19",
+    "descripcion": "CHOCOLATE SM",
+    "unidad": "19 LT",
+    "precio_publico": 1933.0,
+    "costo": 1054.0
+  },
+  "CFC10404": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1040-4",
+    "descripcion": "ROJO VIVO",
+    "unidad": "4 LT",
+    "precio_publico": 434.0,
+    "costo": 301.6
+  },
+  "ROJOVIVO": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1040-4",
+    "descripcion": "ROJO VIVO",
+    "unidad": "4 LT",
+    "precio_publico": 434.0,
+    "costo": 301.6
+  },
+  "CFC104019": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1040-19",
+    "descripcion": "ROJO VIVO",
+    "unidad": "19 LT",
+    "precio_publico": 1933.0,
+    "costo": 1404.6
+  },
+  "CFC10444": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1044-4",
+    "descripcion": "MAGENTA",
+    "unidad": "4 LT",
+    "precio_publico": 434.0,
+    "costo": 248.8
+  },
+  "CFC104419": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1044-19",
+    "descripcion": "MAGENTA",
+    "unidad": "19 LT",
+    "precio_publico": 1933.0,
+    "costo": 1185.8
+  },
+  "CFC10454": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1045-4",
+    "descripcion": "ROJO OXIDO",
+    "unidad": "4 LT",
+    "precio_publico": 434.0,
+    "costo": 216.0
+  },
+  "CFC104519": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1045-19",
+    "descripcion": "ROJO OXIDO",
+    "unidad": "19 LT",
+    "precio_publico": 1933.0,
+    "costo": 1028.0
+  },
+  "CFC10684": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1068-4",
+    "descripcion": "AZUL DE PRUSIA",
+    "unidad": "4 LT",
+    "precio_publico": 434.0,
+    "costo": 338.28
+  },
+  "CFC106819": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1068-19",
+    "descripcion": "AZUL DE PRUSIA",
+    "unidad": "19 LT",
+    "precio_publico": 1933.0,
+    "costo": 1551.08
+  },
+  "CFC10664": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1066-4",
+    "descripcion": "AZUL ORGANICO",
+    "unidad": "4 LT",
+    "precio_publico": 434.0,
+    "costo": 247.88
+  },
+  "AZULORGANICO": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1066-4",
+    "descripcion": "AZUL ORGANICO",
+    "unidad": "4 LT",
+    "precio_publico": 434.0,
+    "costo": 247.88
+  },
+  "CFC106619": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1066-19",
+    "descripcion": "AZUL ORGANICO",
+    "unidad": "19 LT",
+    "precio_publico": 1933.0,
+    "costo": 1079.43
+  },
+  "CFC10544": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1054-4",
+    "descripcion": "ORO ROJIZO",
+    "unidad": "4 LT",
+    "precio_publico": 434.0,
+    "costo": 214.04
+  },
+  "CFC105419": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1054-19",
+    "descripcion": "ORO ROJIZO",
+    "unidad": "19 LT",
+    "precio_publico": 1933.0,
+    "costo": 1018.0
+  },
+  "CFC10524": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1052-4",
+    "descripcion": "ORO AMARILLENTO",
+    "unidad": "4 LT",
+    "precio_publico": 434.0,
+    "costo": 247.88
+  },
+  "CFC105219": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1052-19",
+    "descripcion": "ORO AMARILLENTO",
+    "unidad": "19 LT",
+    "precio_publico": 1933.0,
+    "costo": 1079.43
+  },
+  "CFC10834": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1083-4",
+    "descripcion": "MEDIANO",
+    "unidad": "4 LT",
+    "precio_publico": 434.0,
+    "costo": 246.36
+  },
+  "MEDIANO": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1083-4",
+    "descripcion": "MEDIANO",
+    "unidad": "4 LT",
+    "precio_publico": 434.0,
+    "costo": 246.36
+  },
+  "CFC108319": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1083-19",
+    "descripcion": "MEDIANO",
+    "unidad": "19 LT",
+    "precio_publico": 1933.0,
+    "costo": 1172.21
+  },
+  "CFC10844": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1084-4",
+    "descripcion": "GRUESO",
+    "unidad": "4 LT",
+    "precio_publico": 434.0,
+    "costo": 246.36
+  },
+  "GRUESO": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1084-4",
+    "descripcion": "GRUESO",
+    "unidad": "4 LT",
+    "precio_publico": 434.0,
+    "costo": 246.36
+  },
+  "CFC108419": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1084-19",
+    "descripcion": "GRUESO",
+    "unidad": "19 LT",
+    "precio_publico": 1933.0,
+    "costo": 1172.21
+  },
+  "CFC10784": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1078-4",
+    "descripcion": "VERDE",
+    "unidad": "4 LT",
+    "precio_publico": 434.0,
+    "costo": 247.44
+  },
+  "VERDE": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1078-4",
+    "descripcion": "VERDE",
+    "unidad": "4 LT",
+    "precio_publico": 434.0,
+    "costo": 247.44
+  },
+  "CFC107819": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1078-19",
+    "descripcion": "VERDE",
+    "unidad": "19 LT",
+    "precio_publico": 1933.0,
+    "costo": 1170.34
+  },
+  "CFC10014": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1001-4",
+    "descripcion": "TRANSPARENTE",
+    "unidad": "4 LT",
+    "precio_publico": 434.0,
+    "costo": 185.62
+  },
+  "TRANSPARENTE": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1001-4",
+    "descripcion": "TRANSPARENTE",
+    "unidad": "4 LT",
+    "precio_publico": 434.0,
+    "costo": 185.62
+  },
+  "CFC100119": {
+    "categoria": "Esmalte de Secado Rápido Cover Fast",
+    "clave": "CFC-1001-19",
+    "descripcion": "TRANSPARENTE",
+    "unidad": "19 LT",
+    "precio_publico": 1933.0,
+    "costo": 886.45
+  },
+  "R804": {
+    "categoria": "Resanadores",
+    "clave": "R-80-4",
+    "descripcion": "BODY FILLER R80",
+    "unidad": "3.0 LT",
+    "precio_publico": 346.5,
+    "costo": 185.0
+  },
+  "BODYFILLERR80": {
+    "categoria": "Resanadores",
+    "clave": "R-80-4",
+    "descripcion": "BODY FILLER R80",
+    "unidad": "3.0 LT",
+    "precio_publico": 346.5,
+    "costo": 185.0
+  },
+  "R801": {
+    "categoria": "Resanadores",
+    "clave": "R-80-1",
+    "descripcion": "BODY FILLER R80",
+    "unidad": "0.946 LT",
+    "precio_publico": 130.9,
+    "costo": 65.0
+  },
+  "R504": {
+    "categoria": "Resanadores",
+    "clave": "R-50-4",
+    "descripcion": "BODY FILLER R50",
+    "unidad": "3.20 LT",
+    "precio_publico": 298.0,
+    "costo": 165.0
+  },
+  "BODYFILLERR50": {
+    "categoria": "Resanadores",
+    "clave": "R-50-4",
+    "descripcion": "BODY FILLER R50",
+    "unidad": "3.20 LT",
+    "precio_publico": 298.0,
+    "costo": 165.0
+  },
+  "ANTC1": {
+    "categoria": "Resanadores",
+    "clave": "ANTC-1",
+    "descripcion": "ANTIGRAVILLA NEGRO",
+    "unidad": "1 KG",
+    "precio_publico": 124.12,
+    "costo": 51.45
+  },
+  "ANTIGRAVILLANEGRO": {
+    "categoria": "Resanadores",
+    "clave": "ANTC-1",
+    "descripcion": "ANTIGRAVILLA NEGRO",
+    "unidad": "1 KG",
+    "precio_publico": 124.12,
+    "costo": 51.45
+  },
+  "PADH1": {
+    "categoria": "Complementos",
+    "clave": "PADH-1",
+    "descripcion": "PROMOTOR DE ADHERENCIA",
+    "unidad": "1 LT",
+    "precio_publico": 294.06,
+    "costo": 118.64
+  },
+  "PROMOTORDEADHERENCIA": {
+    "categoria": "Complementos",
+    "clave": "PADH-1",
+    "descripcion": "PROMOTOR DE ADHERENCIA",
+    "unidad": "1 LT",
+    "precio_publico": 294.06,
+    "costo": 118.64
+  },
+  "PADHP1": {
+    "categoria": "Complementos",
+    "clave": "PADHP-1",
+    "descripcion": "PROMOTOR DE ADH(SOLO PLASTICO)",
+    "unidad": "1 LT",
+    "precio_publico": 195.0,
+    "costo": 95.0
+  },
+  "PROMOTORDEADHSOLOPLASTICO": {
+    "categoria": "Complementos",
+    "clave": "PADHP-1",
+    "descripcion": "PROMOTOR DE ADH(SOLO PLASTICO)",
+    "unidad": "1 LT",
+    "precio_publico": 195.0,
+    "costo": 95.0
+  },
+  "PADH4": {
+    "categoria": "Complementos",
+    "clave": "PADH-4",
+    "descripcion": "PROMOTOR DE ADHERENCIA",
+    "unidad": "4 LT",
+    "precio_publico": 1058.62,
+    "costo": 362.56
+  },
+  "UH504": {
+    "categoria": "Complementos",
+    "clave": "UH50-4",
+    "descripcion": "REDUCTOR UNIVERSAL UH50",
+    "unidad": "4 LT",
+    "precio_publico": 427.12,
+    "costo": 153.0
+  },
+  "REDUCTORUNIVERSALUH50": {
+    "categoria": "Complementos",
+    "clave": "UH50-4",
+    "descripcion": "REDUCTOR UNIVERSAL UH50",
+    "unidad": "4 LT",
+    "precio_publico": 427.12,
+    "costo": 153.0
+  },
+  "UH5019": {
+    "categoria": "Complementos",
+    "clave": "UH50-19",
+    "descripcion": "REDUCTOR UNIVERSAL UH50",
+    "unidad": "19 LT",
+    "precio_publico": 1537.64,
+    "costo": 801.0
+  },
+  "CUC1": {
+    "categoria": "Complementos",
+    "clave": "CUC-1",
+    "descripcion": "CATALIZADOR UNIVERSAL",
+    "unidad": "1 LT",
+    "precio_publico": 387.04,
+    "costo": 101.28
+  },
+  "CATALIZADORUNIVERSAL": {
+    "categoria": "Complementos",
+    "clave": "CUC-1",
+    "descripcion": "CATALIZADOR UNIVERSAL",
+    "unidad": "1 LT",
+    "precio_publico": 387.04,
+    "costo": 101.28
+  },
+  "CUC4": {
+    "categoria": "Complementos",
+    "clave": "CUC-4",
+    "descripcion": "CATALIZADOR UNIVERSAL",
+    "unidad": "4 LT",
+    "precio_publico": 1393.34,
+    "costo": 320.88
+  },
+  "DC50": {
+    "categoria": "Complementos",
+    "clave": "DC-50",
+    "descripcion": "PREP-ALL (DESENGRASANTE)",
+    "unidad": "4 LT",
+    "precio_publico": 349.6,
+    "costo": 130.88
+  },
+  "PREPALLDESENGRASANTE": {
+    "categoria": "Complementos",
+    "clave": "DC-50",
+    "descripcion": "PREP-ALL (DESENGRASANTE)",
+    "unidad": "4 LT",
+    "precio_publico": 349.6,
+    "costo": 130.88
+  },
+  "MATIZ4": {
+    "categoria": "Complementos",
+    "clave": "MATIZ-4",
+    "descripcion": "MATIZANTE UNIVERSAL",
+    "unidad": "4 LT",
+    "precio_publico": 695.0,
+    "costo": 307.0
+  },
+  "MATIZANTEUNIVERSAL": {
+    "categoria": "Complementos",
+    "clave": "MATIZ-4",
+    "descripcion": "MATIZANTE UNIVERSAL",
+    "unidad": "4 LT",
+    "precio_publico": 695.0,
+    "costo": 307.0
+  },
+  "SE4054": {
+    "categoria": "Complementos",
+    "clave": "SE-405-4",
+    "descripcion": "SOLVENTE ESFUMADOR",
+    "unidad": "4 LT",
+    "precio_publico": 467.6,
+    "costo": 169.32
+  },
+  "SOLVENTEESFUMADOR": {
+    "categoria": "Complementos",
+    "clave": "SE-405-4",
+    "descripcion": "SOLVENTE ESFUMADOR",
+    "unidad": "4 LT",
+    "precio_publico": 467.6,
+    "costo": 169.32
+  },
+  "DESOXI4": {
+    "categoria": "Complementos",
+    "clave": "DESOXI-4",
+    "descripcion": "DESOXIDANTE",
+    "unidad": "4 LT",
+    "precio_publico": 500.0,
+    "costo": 190.0
+  },
+  "DESOXIDANTE": {
+    "categoria": "Complementos",
+    "clave": "DESOXI-4",
+    "descripcion": "DESOXIDANTE",
+    "unidad": "4 LT",
+    "precio_publico": 500.0,
+    "costo": 190.0
+  },
+  "PAL4": {
+    "categoria": "Varios",
+    "clave": "PAL-4",
+    "descripcion": "PALA MEDIDORA GL",
+    "unidad": "PZ",
+    "precio_publico": 22.5,
+    "costo": 10.0
+  },
+  "PALAMEDIDORAGL": {
+    "categoria": "Varios",
+    "clave": "PAL-4",
+    "descripcion": "PALA MEDIDORA GL",
+    "unidad": "PZ",
+    "precio_publico": 22.5,
+    "costo": 10.0
+  },
+  "PAL1": {
+    "categoria": "Varios",
+    "clave": "PAL-1",
+    "descripcion": "PALA MEDIDORA LT",
+    "unidad": "PZ",
+    "precio_publico": 15.0,
+    "costo": 6.5
+  },
+  "PALAMEDIDORALT": {
+    "categoria": "Varios",
+    "clave": "PAL-1",
+    "descripcion": "PALA MEDIDORA LT",
+    "unidad": "PZ",
+    "precio_publico": 15.0,
+    "costo": 6.5
+  },
+  "CPC": {
+    "categoria": "Varios",
+    "clave": "CPC",
+    "descripcion": "COLADOR DE PAPEL",
+    "unidad": "PZ",
+    "precio_publico": 1.72,
+    "costo": 0.85
+  },
+  "COLADORDEPAPEL": {
+    "categoria": "Varios",
+    "clave": "CPC",
+    "descripcion": "COLADOR DE PAPEL",
+    "unidad": "PZ",
+    "precio_publico": 1.72,
+    "costo": 0.85
+  },
+  "TAQKIT": {
+    "categoria": "Varios",
+    "clave": "TAQKIT",
+    "descripcion": "JGO TAQUETES CHALLENGER",
+    "unidad": "3 PZ",
+    "precio_publico": 350.0,
+    "costo": 140.0
+  },
+  "JGOTAQUETESCHALLENGER": {
+    "categoria": "Varios",
+    "clave": "TAQKIT",
+    "descripcion": "JGO TAQUETES CHALLENGER",
+    "unidad": "3 PZ",
+    "precio_publico": 350.0,
+    "costo": 140.0
+  },
+  "PCH12": {
+    "categoria": "Varios",
+    "clave": "PCH12",
+    "descripcion": "ROLLO DE PAPEL 12",
+    "unidad": "PZ",
+    "precio_publico": 222.8,
+    "costo": 110.0
+  },
+  "ROLLODEPAPEL12": {
+    "categoria": "Varios",
+    "clave": "PCH12",
+    "descripcion": "ROLLO DE PAPEL 12",
+    "unidad": "PZ",
+    "precio_publico": 222.8,
+    "costo": 110.0
+  },
+  "PCH18": {
+    "categoria": "Varios",
+    "clave": "PCH18",
+    "descripcion": "ROLLO DE PAPEL 18",
+    "unidad": "PZ",
+    "precio_publico": 331.9,
+    "costo": 160.0
+  },
+  "ROLLODEPAPEL18": {
+    "categoria": "Varios",
+    "clave": "PCH18",
+    "descripcion": "ROLLO DE PAPEL 18",
+    "unidad": "PZ",
+    "precio_publico": 331.9,
+    "costo": 160.0
+  },
+  "PCH24": {
+    "categoria": "Varios",
+    "clave": "PCH24",
+    "descripcion": "ROLLO DE PAPEL 24",
+    "unidad": "PZ",
+    "precio_publico": 440.95,
+    "costo": 210.0
+  },
+  "ROLLODEPAPEL24": {
+    "categoria": "Varios",
+    "clave": "PCH24",
+    "descripcion": "ROLLO DE PAPEL 24",
+    "unidad": "PZ",
+    "precio_publico": 440.95,
+    "costo": 210.0
+  },
+  "PCH36": {
+    "categoria": "Varios",
+    "clave": "PCH36",
+    "descripcion": "ROLLO DE PAPEL 36",
+    "unidad": "PZ",
+    "precio_publico": 706.47,
+    "costo": 340.0
+  },
+  "ROLLODEPAPEL36": {
+    "categoria": "Varios",
+    "clave": "PCH36",
+    "descripcion": "ROLLO DE PAPEL 36",
+    "unidad": "PZ",
+    "precio_publico": 706.47,
+    "costo": 340.0
+  },
+  "1610251": {
+    "categoria": "Varios",
+    "clave": "16-10251",
+    "descripcion": "PELÍCULA PLÁSTICA",
+    "unidad": "PZ",
+    "precio_publico": 589.0,
+    "costo": 280.0
+  },
+  "PELCULAPLSTICA": {
+    "categoria": "Varios",
+    "clave": "16-10251",
+    "descripcion": "PELÍCULA PLÁSTICA",
+    "unidad": "PZ",
+    "precio_publico": 589.0,
+    "costo": 280.0
+  },
+  "4608042": {
+    "categoria": "Varios",
+    "clave": "46-080-42",
+    "descripcion": "BORLA DE LANA DOBLE CARA",
+    "unidad": "PZ",
+    "precio_publico": 365.0,
+    "costo": 175.0
+  },
+  "BORLADELANADOBLECARA": {
+    "categoria": "Varios",
+    "clave": "46-080-42",
+    "descripcion": "BORLA DE LANA DOBLE CARA",
+    "unidad": "PZ",
+    "precio_publico": 365.0,
+    "costo": 175.0
+  },
+  "4978031": {
+    "categoria": "Varios",
+    "clave": "49-780-31",
+    "descripcion": "BORLA ESPONJA WAFLERA NEGRA",
+    "unidad": "PZ",
+    "precio_publico": 375.0,
+    "costo": 180.0
+  },
+  "BORLAESPONJAWAFLERANEGRA": {
+    "categoria": "Varios",
+    "clave": "49-780-31",
+    "descripcion": "BORLA ESPONJA WAFLERA NEGRA",
+    "unidad": "PZ",
+    "precio_publico": 375.0,
+    "costo": 180.0
+  },
+  "PMC4": {
+    "categoria": "Varios",
+    "clave": "PMC-4",
+    "descripcion": "PULIMENTO MAX CUT P11",
+    "unidad": "4 LT",
+    "precio_publico": 1100.0,
+    "costo": 520.0
+  },
+  "PULIMENTOMAXCUTP11": {
+    "categoria": "Varios",
+    "clave": "PMC-4",
+    "descripcion": "PULIMENTO MAX CUT P11",
+    "unidad": "4 LT",
+    "precio_publico": 1100.0,
+    "costo": 520.0
+  },
+  "PMF4": {
+    "categoria": "Varios",
+    "clave": "PMF-4",
+    "descripcion": "PULIMENTO MAX FINISH (3 EN 1)",
+    "unidad": "4 LT",
+    "precio_publico": 892.0,
+    "costo": 420.0
+  },
+  "PULIMENTOMAXFINISH3EN1": {
+    "categoria": "Varios",
+    "clave": "PMF-4",
+    "descripcion": "PULIMENTO MAX FINISH (3 EN 1)",
+    "unidad": "4 LT",
+    "precio_publico": 892.0,
+    "costo": 420.0
+  },
+  "3259": {
+    "categoria": "Varios",
+    "clave": "3259",
+    "descripcion": "PULIMENTO ULTRA CUTTIN",
+    "unidad": "4 LT",
+    "precio_publico": 1681.04,
+    "costo": 800.0
+  },
+  "PULIMENTOULTRACUTTIN": {
+    "categoria": "Varios",
+    "clave": "3259",
+    "descripcion": "PULIMENTO ULTRA CUTTIN",
+    "unidad": "4 LT",
+    "precio_publico": 1681.04,
+    "costo": 800.0
+  },
+  "CPP": {
+    "categoria": "Varios",
+    "clave": "CPP",
+    "descripcion": "CARRITO PORTA PAPEL",
+    "unidad": "PZ",
+    "precio_publico": 2300.0,
+    "costo": 1100.0
+  },
+  "CARRITOPORTAPAPEL": {
+    "categoria": "Varios",
+    "clave": "CPP",
+    "descripcion": "CARRITO PORTA PAPEL",
+    "unidad": "PZ",
+    "precio_publico": 2300.0,
+    "costo": 1100.0
+  },
+  "CP1": {
+    "categoria": "Varios",
+    "clave": "CP-1",
+    "descripcion": "CATALIZADOR PASTA 25G",
+    "unidad": "PZ",
+    "precio_publico": 18.5,
+    "costo": 8.0
+  },
+  "CATALIZADORPASTA25G": {
+    "categoria": "Varios",
+    "clave": "CP-1",
+    "descripcion": "CATALIZADOR PASTA 25G",
+    "unidad": "PZ",
+    "precio_publico": 18.5,
+    "costo": 8.0
+  },
+  "CP4": {
+    "categoria": "Varios",
+    "clave": "CP-4",
+    "descripcion": "CATALIZADOR PASTA 80 G",
+    "unidad": "PZ",
+    "precio_publico": 39.0,
+    "costo": 16.0
+  },
+  "CATALIZADORPASTA80G": {
+    "categoria": "Varios",
+    "clave": "CP-4",
+    "descripcion": "CATALIZADOR PASTA 80 G",
+    "unidad": "PZ",
+    "precio_publico": 39.0,
+    "costo": 16.0
+  }
+}

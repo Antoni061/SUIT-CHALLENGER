@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Sello="Q5/zC07qnLaEkUHK3KN284MFEYsb4dL+Mtyd88smLYx/4qv4m/VwaEHUbQEFGIFjawZZyJumMp5ThDN3dQWD7TEh05GdEPleqEc+z3LXTqHuUU/P2Y6h2C5vT9JbtGvqKevTjsjZLgsPHG9UGaV17ufib1uJgUdmCaj69Mc67Lmo2C6IKZOMNBC+STXYH/rzRouhODOPcuQjd8Uh14z81+7/jmk9ZVgHQ0vFV8amIdS+aUgayarB2d9TnUi6245ULmw+ZrTbxqHM2P9SsaCLdRmzYx5WeLHD37sMAYw6/zP0zvzqg6y6w++FUM+890zhkPn1VKEmRdgjh1u2wfg/Qg==" Fecha="2026-08-17T20:31:32" Folio="712" Serie="INV/2026/" FormaPago="99" NoCertificado="00001000000723722733" Certificado="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" CondicionesDePago="Pago inmediato" SubTotal="1962.30" Moneda="MXN" Total="2276.27" TipoDeComprobante="I" Exportacion="01" MetodoPago="PPD" LugarExpedicion="76220">
+  <cfdi:Emisor Rfc="ALM0003033S6" Nombre="AUTO LINEA MULTITRANS" RegimenFiscal="626"/>
+  <cfdi:Receptor Rfc="MEGB620114JX6" Nombre="BALDOMERO MEDINA GARZA" DomicilioFiscalReceptor="76220" RegimenFiscalReceptor="612" UsoCFDI="G01"/>
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="31191500" NoIdentificacion="31373" Cantidad="10.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[31373] DISCO LIJA CUBITRON 36 3M" ValorUnitario="86.430000" Importe="864.300000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="864.300000" Importe="138.288000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="27112742" NoIdentificacion="FA0106080" Cantidad="50.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[FA0106080] DISCO P80 HERMES VC151 VELCRO 6" ValorUnitario="6.830000" Importe="341.500000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="341.500000" Importe="54.640000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31191506" NoIdentificacion="FA0106120" Cantidad="50.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[FA0106120] DISCO P120 HERMES VC151 VELCRO 6" ValorUnitario="6.180000" Importe="309.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="309.000000" Importe="49.440000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31191500" NoIdentificacion="FA0170419080" Cantidad="50.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[FA0170419080] LIJA TIRA P80 VC151 HERMES" ValorUnitario="8.950000" Importe="447.500000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="447.500000" Importe="71.600000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="313.97">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="1962.30" Importe="313.97" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" SelloCFD="Q5/zC07qnLaEkUHK3KN284MFEYsb4dL+Mtyd88smLYx/4qv4m/VwaEHUbQEFGIFjawZZyJumMp5ThDN3dQWD7TEh05GdEPleqEc+z3LXTqHuUU/P2Y6h2C5vT9JbtGvqKevTjsjZLgsPHG9UGaV17ufib1uJgUdmCaj69Mc67Lmo2C6IKZOMNBC+STXYH/rzRouhODOPcuQjd8Uh14z81+7/jmk9ZVgHQ0vFV8amIdS+aUgayarB2d9TnUi6245ULmw+ZrTbxqHM2P9SsaCLdRmzYx5WeLHD37sMAYw6/zP0zvzqg6y6w++FUM+890zhkPn1VKEmRdgjh1u2wfg/Qg==" NoCertificadoSAT="00001000000707310321" RfcProvCertif="CVD110412TF6" UUID="6D6ED92D-91C1-50D8-A092-7EDA071BB12C" FechaTimbrado="2026-08-17T20:31:33" SelloSAT="qpOQVUKvUrCK4RnGx4LllqBtqMKfh23zK40MBXHaIW5yzpLfWmtzBiS11bdH4KrCgHEENDWDOy3KBual7E8MqhU+iJ43jNJw0l5TMiv/cY2yNh0SYkQ5A+tnjE1PheTcCXjCl10oJsiu27gadG4VwSbxNs8pHnecIbHjsGZeOdcHV1F669f33kTnvvFcqKPQmL+cyxBfZn47wvQVTsI3XKiykIIynHeVosROqq0EP9MC+UWdVeBSmP7BurjLt9+yBMeIk0M6T/QhsDnKLr7HysLtwXjGvUnLokWBeOvItk12ZRxxwhmNI8n4as0ZFQE0gZT1b1OnwwBIQGHtR+fkGQ=="/>
+  </cfdi:Complemento>
+</cfdi:Comprobante>

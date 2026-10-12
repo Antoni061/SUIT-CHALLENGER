@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?><cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cartaporte31="http://www.sat.gob.mx/CartaPorte31" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd http://www.sat.gob.mx/CartaPorte31 http://www.sat.gob.mx/sitio_internet/cfd/CartaPorte/CartaPorte31.xsd" Version="4.0" Folio="121019618" Fecha="2026-07-10T17:54:31" Sello="FGu8bL6aN0efShlfqQZkOon+yGGe9QToo997A6tgjFOrRDSXDEBk/CAWUiO/NkRPmAXU8rvRMPPJEfNqTI4kQh1Ip0a+IdK4+cpYd9i0Lz/NUWuxM+xtORQGV4CjRMiJlX0ttBDxqBD9Z58VfHco5GQ7esUcXooBAJbQ/sVDTPUNWjWTuLBA3CEIzM8bFAJ13893E6LGQhx53fseqIr7UvR1KCrydqzWkkP3XDcQPdJocAr1FKoSB+ifKNk3UPVgowcrLgRbyZOytgf6dVnCyWEl4kfFnZpSEDzHlXDzvMx3aMaoKTbgBHHHcBPTGeBWycDZdZyYwujzAW5K1q3wtg==" FormaPago="28" NoCertificado="00001000000710981394" Certificado="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" SubTotal="149.00" Moneda="MXN" Total="172.84" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="76120">
+  <cfdi:Emisor Rfc="ACT6808066SA" Nombre="AUTOTRANSPORTES DE CARGA TRESGUERRAS" RegimenFiscal="624" />
+  <cfdi:Receptor Rfc="MEGB620114JX6" Nombre="BALDOMERO MEDINA GARZA" DomicilioFiscalReceptor="76220" RegimenFiscalReceptor="612" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="78101802" Cantidad="1" ClaveUnidad="E48" Descripcion="Flete (QRO01638513)" ValorUnitario="49.00" Importe="49.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="49.000000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="7.84" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="78101801" Cantidad="1" ClaveUnidad="E48" Descripcion="Flete Entrega a Domicilio" ValorUnitario="100.00" Importe="100.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="100.000000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="16.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="23.84">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="149.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="23.84" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+        <cartaporte31:CartaPorte Version="3.1" IdCCP="CCC9680e-6458-4ef3-9f50-013c1e9967fa" TranspInternac="No" TotalDistRec="180">
+      <cartaporte31:Ubicaciones>
+        <cartaporte31:Ubicacion TipoUbicacion="Origen" IDUbicacion="OR000070" RFCRemitenteDestinatario="XAXX010101000" NombreRemitenteDestinatario="BALDOMERO MEDINA GARZA//RIGOBERTO HERNANDEZ" FechaHoraSalidaLlegada="2026-07-13T17:00:00">
+          <cartaporte31:Domicilio Calle="DE LA LOMA" NumeroExterior="9" Colonia="0108" Localidad="01" Municipio="014" Estado="QUE" Pais="MEX" CodigoPostal="76130" />
+        </cartaporte31:Ubicacion>
+        <cartaporte31:Ubicacion TipoUbicacion="Destino" IDUbicacion="DE000054" RFCRemitenteDestinatario="XAXX010101000" NombreRemitenteDestinatario="MARIA DEL ROCIO CALDERON CALDERON" FechaHoraSalidaLlegada="2026-07-13T23:59:00" DistanciaRecorrida="180">
+          <cartaporte31:Domicilio Calle="CALLE TLATELOLCO" NumeroExterior="470" Colonia="0158" Localidad="06" Municipio="053" Estado="MIC" Pais="MEX" CodigoPostal="58140" />
+        </cartaporte31:Ubicacion>
+      </cartaporte31:Ubicaciones>
+      <cartaporte31:Mercancias PesoBrutoTotal="4.00" UnidadPeso="KGM" PesoNetoTotal="4.00" NumTotalMercancias="1">
+        <cartaporte31:Mercancia BienesTransp="31211500" Descripcion="Pinturas y tapa poros" Cantidad="1" ClaveUnidad="XBX" MaterialPeligroso="No" PesoEnKg="4.00" />
+        <cartaporte31:Autotransporte PermSCT="TPAF01" NumPermisoSCT="0023ACT250420110210012662">
+          <cartaporte31:IdentificacionVehicular ConfigVehicular="T3S2" PesoBrutoVehicular="45.50" PlacaVM="54BC4K" AnioModeloVM="2024" />
+          <cartaporte31:Seguros AseguraRespCivil="AIG Seguros Mexico, S.A. de C.V." PolizaRespCivil="4-RCG-30000019-1" />
+          <cartaporte31:Remolques>
+            <cartaporte31:Remolque SubTipoRem="CTR007" Placa="64UR3Z" />
+          </cartaporte31:Remolques>
+        </cartaporte31:Autotransporte>
+      </cartaporte31:Mercancias>
+      <cartaporte31:FiguraTransporte>
+        <cartaporte31:TiposFigura TipoFigura="01" RFCFigura="AAGA860228DH8" NumLicencia="DF00156425" NombreFigura="ALVARADO GONZALEZ ALEJANDRO" />
+        <cartaporte31:TiposFigura TipoFigura="02" RFCFigura="AAMA590818ES8" NombreFigura="ALMANZA MOSQUEDA ANA ELENA">
+          <cartaporte31:PartesTransporte ParteTransporte="PT03" />
+        </cartaporte31:TiposFigura>
+      </cartaporte31:FiguraTransporte>
+    </cartaporte31:CartaPorte><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="c98e5772-dd6f-44bd-a2fd-4d34ac14c810" RfcProvCertif="SNF171020F3A" FechaTimbrado="2026-07-10T17:54:33" SelloCFD="FGu8bL6aN0efShlfqQZkOon+yGGe9QToo997A6tgjFOrRDSXDEBk/CAWUiO/NkRPmAXU8rvRMPPJEfNqTI4kQh1Ip0a+IdK4+cpYd9i0Lz/NUWuxM+xtORQGV4CjRMiJlX0ttBDxqBD9Z58VfHco5GQ7esUcXooBAJbQ/sVDTPUNWjWTuLBA3CEIzM8bFAJ13893E6LGQhx53fseqIr7UvR1KCrydqzWkkP3XDcQPdJocAr1FKoSB+ifKNk3UPVgowcrLgRbyZOytgf6dVnCyWEl4kfFnZpSEDzHlXDzvMx3aMaoKTbgBHHHcBPTGeBWycDZdZyYwujzAW5K1q3wtg==" NoCertificadoSAT="00001000000518812364" SelloSAT="D7oXO4s8CiL6XmuEf2Ex8V09sptVIEatvVrD99ihnn1MOB4m9IC0Hxzz86tYIz56Lr8IkrjeV+8BQf7VCASrjRugQT60OKtZLpdQTUwA754+AQdK9BEBwnJxX8qXiZ2deS+aW6neFyi8AL9ue++f6A4WRu0hLDke0ETOHCTmhrgV/8LjBcNuCPamvOWcQipyLTdT/3ESTOY7pHAnzyU76NkRvomZ+xAhvYzUBser7lKSVyG0tgbXT9eMJOGFjRL4RRbL2I/s+4WUJXQg2G9o9asa/8Lk/4UzIJJpDAmx4XZQhwNEAVTf+rFLMCNfvHWefJi0mgLJo+ZnPMD+dx59fQ==" />
+    </cfdi:Complemento>
+</cfdi:Comprobante>

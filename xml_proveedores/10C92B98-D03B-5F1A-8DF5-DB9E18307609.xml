@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Sello="XYEPEI1cUDlrqciWiIH+H2m/kyqOZCR/HRT8e9+d7tG/x8HlPjbCK7VzBhTKlJnaZNiHpCvcXd9mmwyHwtxdp9yN08hqR3p8bI69gDS5HL8/k+PxrCIy2h4cIZkAPOZoSboWIlxDT82Cjr0CkujqabUpbUcIlBnlU2lrY9BMeUqiVIRiVzkGa8pABqqSzt/M2nLDM/D6EoyL2T8+UMro0FNlOMEf+cLZfJrbQhlgYi3skcG6ntWYXZ8pwPa+ymvhi+XSMfo5U/84R+tQwR48ib4yqM3d30tHRYv5ftsJLDUVGcQdtHmlLTHHMmd6ncHrjhRIkCnrNXfucGNBi3VAEA==" Fecha="2026-09-01T12:07:16" Folio="1645" Serie="INV/2026/" FormaPago="01" NoCertificado="00001000000723720361" Certificado="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" SubTotal="1480.24" Descuento="74.01" Moneda="MXN" Total="1631.23" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="76220">
+  <cfdi:Emisor Rfc="MEGB620114JX6" Nombre="BALDOMERO MEDINA GARZA" RegimenFiscal="612"/>
+  <cfdi:Receptor Rfc="RAVM680109KF3" Nombre="MARIO RAMIREZ VALLES" DomicilioFiscalReceptor="52105" RegimenFiscalReceptor="626" UsoCFDI="G01"/>
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="31211500" NoIdentificacion="BCC-802-4" Cantidad="1.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[BCC-802-4] BC ALUMINIO FINO GL" ValorUnitario="1232.000000" Importe="1232.000000" ObjetoImp="02" Descuento="61.600000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1170.400000" Importe="187.264000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31211500" NoIdentificacion="ANTC-1" Cantidad="2.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[ANTC-1] BODY NEGRO LT" ValorUnitario="124.120000" Importe="248.240000" ObjetoImp="02" Descuento="12.412000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="235.828000" Importe="37.732480" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="225.00">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="1406.23" Importe="225.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" SelloCFD="XYEPEI1cUDlrqciWiIH+H2m/kyqOZCR/HRT8e9+d7tG/x8HlPjbCK7VzBhTKlJnaZNiHpCvcXd9mmwyHwtxdp9yN08hqR3p8bI69gDS5HL8/k+PxrCIy2h4cIZkAPOZoSboWIlxDT82Cjr0CkujqabUpbUcIlBnlU2lrY9BMeUqiVIRiVzkGa8pABqqSzt/M2nLDM/D6EoyL2T8+UMro0FNlOMEf+cLZfJrbQhlgYi3skcG6ntWYXZ8pwPa+ymvhi+XSMfo5U/84R+tQwR48ib4yqM3d30tHRYv5ftsJLDUVGcQdtHmlLTHHMmd6ncHrjhRIkCnrNXfucGNBi3VAEA==" NoCertificadoSAT="00001000000707310321" RfcProvCertif="CVD110412TF6" UUID="10C92B98-D03B-5F1A-8DF5-DB9E18307609" FechaTimbrado="2026-09-01T12:07:17" SelloSAT="eSJ8Ph5oOandR3obbCZg0HUD9HralKpX/mekTwnyRs2aG/xwJ1k+eMIzzdpJMVDenRZd5cGdJqPBW9+1NuFyoHRTT6umKJeSyxxtvItfsenXuWMTbwDKjqFSdjiZApOKP9Eu5OSSRcbSZ4GYriM+gCLWlWaDO66fb+QQnnUwP9e+DUazPDLSAK7UKyAloOSaa5/Gub6Uu6Hcf4Qv91xcqRDTQNPsqEhacmgxE5kUch1TJYSi+JDdsLVpg1Plzqim8k3nd3Me68yGkRRNTjw/Cj9Y64NaN76qcuHkMxCNFbpOIZnM019+/xI0rf7C26yIxoqF2QlH6mE5Ym6sPXzDoA=="/>
+  </cfdi:Complemento>
+</cfdi:Comprobante>

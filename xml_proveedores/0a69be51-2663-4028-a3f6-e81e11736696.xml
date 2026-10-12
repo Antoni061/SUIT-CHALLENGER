@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?><cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cartaporte31="http://www.sat.gob.mx/CartaPorte31" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd http://www.sat.gob.mx/CartaPorte31 http://www.sat.gob.mx/sitio_internet/cfd/CartaPorte/CartaPorte31.xsd" Version="4.0" Folio="121152829" Fecha="2026-07-14T11:57:32" Sello="PdaqQHPsBV+uCwHUlzMgXbPST7c1XZnJXVHCqEalAQRczTaHHA2DlDrxA8y2jB4WX/wPwkswOMnejMRv46v9559eRrkoTOXGCeBLvzKxcS4mG3kEyt1McsVEmrcdUmcMGQqzBPAMORtZ4rUd2j/XiTTpEm/w1Ah/yDUoDT1luS3qnBxVEZGeijR29WWDjuHc5nNA493ARckL9LZ5WZZP3tFdoVcKqHRQhj5TV27LfSAXvuWR+4+yAAd3TPTC+iACiGQWxpD74AXfQRcgOtCRLOIqvrFK9HTA4naUzXQc1Mw4WKxTMM5nvLyzPO+2HnNPvvuKgihlL3m2UEgAeJ7iCQ==" FormaPago="99" NoCertificado="00001000000710981394" Certificado="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" SubTotal="3813.57" Moneda="MXN" Total="4423.74" TipoDeComprobante="I" Exportacion="01" MetodoPago="PPD" LugarExpedicion="76120">
+  <cfdi:Emisor Rfc="ACT6808066SA" Nombre="AUTOTRANSPORTES DE CARGA TRESGUERRAS" RegimenFiscal="624" />
+  <cfdi:Receptor Rfc="MEGB620114JX6" Nombre="BALDOMERO MEDINA GARZA" DomicilioFiscalReceptor="76220" RegimenFiscalReceptor="612" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="78101802" Cantidad="1" ClaveUnidad="E48" Descripcion="Flete (QRO01639308)" ValorUnitario="2960.64" Importe="2960.64" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2960.640000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="473.70" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="78101801" Cantidad="1" ClaveUnidad="E48" Descripcion="Flete Entrega a Domicilio" ValorUnitario="816.26" Importe="816.26" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="816.260000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="130.60" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="78101802" Cantidad="1" ClaveUnidad="E48" Descripcion="Costo por ajuste de combustible" ValorUnitario="36.67" Importe="36.67" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="36.670000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5.87" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="610.17">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="3813.57" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="610.17" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+        <cartaporte31:CartaPorte Version="3.1" IdCCP="CCC58dd0-b864-4b8f-b438-b0890a81d833" TranspInternac="No" TotalDistRec="875">
+      <cartaporte31:Ubicaciones>
+        <cartaporte31:Ubicacion TipoUbicacion="Origen" IDUbicacion="OR000070" RFCRemitenteDestinatario="MEGB620114JX6" NombreRemitenteDestinatario="BALDOMERO MEDINA GARZA" FechaHoraSalidaLlegada="2026-07-14T17:00:00">
+          <cartaporte31:Domicilio Calle="LIBR. NORPONIENTE" NumeroExterior="." Colonia="0001" Localidad="01" Municipio="014" Estado="QUE" Pais="MEX" CodigoPostal="76000" />
+        </cartaporte31:Ubicacion>
+        <cartaporte31:Ubicacion TipoUbicacion="Destino" IDUbicacion="DE000048" RFCRemitenteDestinatario="XAXX010101000" NombreRemitenteDestinatario="CARLOS GUERRERO LUNA" FechaHoraSalidaLlegada="2026-07-16T23:59:00" DistanciaRecorrida="875">
+          <cartaporte31:Domicilio Calle="REVOLUCION" NumeroExterior="55" NumeroInterior="3" Colonia="1073" Localidad="05" Municipio="012" Estado="SIN" Pais="MEX" CodigoPostal="82120" />
+        </cartaporte31:Ubicacion>
+      </cartaporte31:Ubicaciones>
+      <cartaporte31:Mercancias PesoBrutoTotal="600.00" UnidadPeso="KGM" PesoNetoTotal="600.00" NumTotalMercancias="1">
+        <cartaporte31:Mercancia BienesTransp="31211500" Descripcion="Pinturas y tapa poros" Cantidad="1" ClaveUnidad="XPX" MaterialPeligroso="No" PesoEnKg="600.00" />
+        <cartaporte31:Autotransporte PermSCT="TPAF01" NumPermisoSCT="0023ACT250420110210011381">
+          <cartaporte31:IdentificacionVehicular ConfigVehicular="T3S2" PesoBrutoVehicular="45.50" PlacaVM="10AB4W" AnioModeloVM="2017" />
+          <cartaporte31:Seguros AseguraRespCivil="AIG Seguros Mexico, S.A. de C.V." PolizaRespCivil="4-RCG-30000019-1" />
+          <cartaporte31:Remolques>
+            <cartaporte31:Remolque SubTipoRem="CTR007" Placa="65TZ6H" />
+          </cartaporte31:Remolques>
+        </cartaporte31:Autotransporte>
+      </cartaporte31:Mercancias>
+      <cartaporte31:FiguraTransporte>
+        <cartaporte31:TiposFigura TipoFigura="01" RFCFigura="CURE860206KN5" NumLicencia="DF001129582" NombreFigura="CRUZ ROMERO EDILBERTO" />
+        <cartaporte31:TiposFigura TipoFigura="02" RFCFigura="BAMJ5908098H3" NombreFigura="BRAVO MOLINA JUAN ENRIQUE">
+          <cartaporte31:PartesTransporte ParteTransporte="PT03" />
+        </cartaporte31:TiposFigura>
+      </cartaporte31:FiguraTransporte>
+    </cartaporte31:CartaPorte><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="0a69be51-2663-4028-a3f6-e81e11736696" RfcProvCertif="SNF171020F3A" FechaTimbrado="2026-07-14T11:57:34" SelloCFD="PdaqQHPsBV+uCwHUlzMgXbPST7c1XZnJXVHCqEalAQRczTaHHA2DlDrxA8y2jB4WX/wPwkswOMnejMRv46v9559eRrkoTOXGCeBLvzKxcS4mG3kEyt1McsVEmrcdUmcMGQqzBPAMORtZ4rUd2j/XiTTpEm/w1Ah/yDUoDT1luS3qnBxVEZGeijR29WWDjuHc5nNA493ARckL9LZ5WZZP3tFdoVcKqHRQhj5TV27LfSAXvuWR+4+yAAd3TPTC+iACiGQWxpD74AXfQRcgOtCRLOIqvrFK9HTA4naUzXQc1Mw4WKxTMM5nvLyzPO+2HnNPvvuKgihlL3m2UEgAeJ7iCQ==" NoCertificadoSAT="00001000000518812364" SelloSAT="JzlkuUgKCzXslUhZIllpsThl33kTX248GX0soL3lZo37br2CXyGNTW0mEAcfVEYWtOeIUGpUPd4hHuIm2yK+VSJrBpVAKwcydgui+VOnNG0TuGlKPSCy3+hBSExp5c+V1+0imYXZ5Hs7MvZAqyTRAEfU2EZWat8ejc6BiSy87bqYdqJzpw2W1fDhBwgOLhY8errPhuX7ivCNBRxGfv2T/kqs94n18aCBTLJ2kFJQbQRuCQ0/nmTan9q3kfSVCLY6hO7hx+upUYyQHPcWM5VVf1HD8NFsY48vb7rc/CnQLxCNCRsH23yTas+wTyD47OFRO9gzI3alIDEn1HyIGvNyaQ==" />
+    </cfdi:Complemento>
+</cfdi:Comprobante>

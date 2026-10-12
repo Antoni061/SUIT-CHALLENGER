@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Sello="VqFQLmgtqrCFc4T81yV+muq6TkUAExKtFrWqOxxqSKKytZbJbyz3sVA9GZRd3JOLxHQBqTS50K/eVF5H12MeGaLSYlOpSAkzGTc5o8U1VmvoePBZmqvKkGvZ6DXc+s32FhNTqxzVpZg4ABRJUHXdPgPbFt1q24/j+5sfCFo3LCMW7ZZFshpLw6HqTbP4NPGGwSYAq4NtxUNP2AYsTnGY2OvYgm0/Psn3KMEaSu7reAoFOv4ZbajbwDsUOxgbLWnI7WvMUHpprKF3VBBGiFtv96/MCXiWsR/gaHOPaPfly5GN0WwDfZYjK6Ri62SNOvyZ5qQ0L12OXNbHSAXAeAUCyg==" Fecha="2026-09-08T13:18:51" Folio="1716" Serie="INV/2026/" FormaPago="99" NoCertificado="00001000000723720361" Certificado="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" SubTotal="7882.40" Descuento="945.89" Moneda="MXN" Total="8046.35" TipoDeComprobante="I" Exportacion="01" MetodoPago="PPD" LugarExpedicion="76220">
+  <cfdi:Emisor Rfc="MEGB620114JX6" Nombre="BALDOMERO MEDINA GARZA" RegimenFiscal="612"/>
+  <cfdi:Receptor Rfc="RATL930809LB0" Nombre="LUIS MANUEL RAMIREZ TAFOYA" DomicilioFiscalReceptor="59340" RegimenFiscalReceptor="612" UsoCFDI="G01"/>
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="31211500" NoIdentificacion="BCC-430-4" Cantidad="2.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[BCC-430-4] BC MARRON ROYAL GL" ValorUnitario="1673.450000" Importe="3346.900000" ObjetoImp="02" Descuento="401.628000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2945.272000" Importe="471.243520" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31211500" Cantidad="4.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="BC VEHICULO TRANSPARENTE GL BC TRANSPARENTE GL" ValorUnitario="730.300000" Importe="2921.200000" ObjetoImp="02" Descuento="350.544000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2570.656000" Importe="411.304960" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31211500" NoIdentificacion="BCC-001-4" Cantidad="2.000000" ClaveUnidad="H87" Unidad="UNIDADES" Descripcion="[BCC-001-4] BC VEHICULO DE AJUSTE GL" ValorUnitario="807.150000" Importe="1614.300000" ObjetoImp="02" Descuento="193.716000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1420.584000" Importe="227.293440" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="1109.84">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="6936.51" Importe="1109.84" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000"/>
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" SelloCFD="VqFQLmgtqrCFc4T81yV+muq6TkUAExKtFrWqOxxqSKKytZbJbyz3sVA9GZRd3JOLxHQBqTS50K/eVF5H12MeGaLSYlOpSAkzGTc5o8U1VmvoePBZmqvKkGvZ6DXc+s32FhNTqxzVpZg4ABRJUHXdPgPbFt1q24/j+5sfCFo3LCMW7ZZFshpLw6HqTbP4NPGGwSYAq4NtxUNP2AYsTnGY2OvYgm0/Psn3KMEaSu7reAoFOv4ZbajbwDsUOxgbLWnI7WvMUHpprKF3VBBGiFtv96/MCXiWsR/gaHOPaPfly5GN0WwDfZYjK6Ri62SNOvyZ5qQ0L12OXNbHSAXAeAUCyg==" NoCertificadoSAT="00001000000707310321" RfcProvCertif="CVD110412TF6" UUID="1D7EF9BB-E3E4-5F04-B4B6-E669DFD9C7FD" FechaTimbrado="2026-09-08T13:18:52" SelloSAT="jifqWupFIIWqwgjz2K+rFrDp8EN0aaygNZgvBVy4QCsfbV8d+2oZ+s2YXmv1aJt35uz4OuFNJQkNa6QCqcGw9phnhUo6x2fdTddAwvvLU9/dW8pZLHuRTmXIyrk1sv+qKFkNm0VXEvBFT3NE+qXDur5yGrc6qcsUf8aWUMvptBU6btbc7z4T1bs2R2jL8msnLCdlbvjto/IyjIVaCnRkiC+BeFkb+Gqg+9/b/oPzN3bsYdERNCgYZkSOejcJRN1EdWBnGof8T8UgLiAcaaYbAYZPn+R9ofTH/RWt/86w0iDPW+HbKxLNY5Fw4lGeCmuuIla8YPkwniQqDhqG4aA9rA=="/>
+  </cfdi:Complemento>
+</cfdi:Comprobante>
